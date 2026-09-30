@@ -1,0 +1,36 @@
+{
+  "env_id": "InsertPeg",
+  "record_count": 5,
+  "records": [
+    {
+      "task": "InsertPeg",
+      "episode": 0,
+      "seed": 1130000,
+      "difficulty": "easy"
+    },
+    {
+      "task": "InsertPeg",
+      "episode": 1,
+      "seed": 1130100,
+      "difficulty": "easy"
+    },
+    {
+      "task": "InsertPeg",
+      "episode": 2,
+      "seed": 1130201,
+      "difficulty": "medium"
+    },
+    {
+      "task": "InsertPeg",
+      "episode": 3,
+      "seed": 1130301,
+      "difficulty": "hard"
+    },
+    {
+      "task": "InsertPeg",
+      "episode": 4,
+      "seed": 1130400,
+      "difficulty": "easy"
+    }
+  ]
+}

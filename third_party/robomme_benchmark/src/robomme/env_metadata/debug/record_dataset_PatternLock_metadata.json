@@ -1,0 +1,36 @@
+{
+  "env_id": "PatternLock",
+  "record_count": 5,
+  "records": [
+    {
+      "task": "PatternLock",
+      "episode": 0,
+      "seed": 1150000,
+      "difficulty": "easy"
+    },
+    {
+      "task": "PatternLock",
+      "episode": 1,
+      "seed": 1150100,
+      "difficulty": "easy"
+    },
+    {
+      "task": "PatternLock",
+      "episode": 2,
+      "seed": 1150200,
+      "difficulty": "medium"
+    },
+    {
+      "task": "PatternLock",
+      "episode": 3,
+      "seed": 1150300,
+      "difficulty": "hard"
+    },
+    {
+      "task": "PatternLock",
+      "episode": 4,
+      "seed": 1150400,
+      "difficulty": "easy"
+    }
+  ]
+}

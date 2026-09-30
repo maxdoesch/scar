@@ -1,0 +1,36 @@
+{
+  "env_id": "StopCube",
+  "record_count": 5,
+  "records": [
+    {
+      "task": "StopCube",
+      "episode": 0,
+      "seed": 1020000,
+      "difficulty": "easy"
+    },
+    {
+      "task": "StopCube",
+      "episode": 1,
+      "seed": 1020100,
+      "difficulty": "easy"
+    },
+    {
+      "task": "StopCube",
+      "episode": 2,
+      "seed": 1020200,
+      "difficulty": "medium"
+    },
+    {
+      "task": "StopCube",
+      "episode": 3,
+      "seed": 1020300,
+      "difficulty": "hard"
+    },
+    {
+      "task": "StopCube",
+      "episode": 4,
+      "seed": 1020400,
+      "difficulty": "easy"
+    }
+  ]
+}

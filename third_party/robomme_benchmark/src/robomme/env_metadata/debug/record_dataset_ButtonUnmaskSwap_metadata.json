@@ -1,0 +1,36 @@
+{
+  "env_id": "ButtonUnmaskSwap",
+  "record_count": 5,
+  "records": [
+    {
+      "task": "ButtonUnmaskSwap",
+      "episode": 0,
+      "seed": 1070000,
+      "difficulty": "easy"
+    },
+    {
+      "task": "ButtonUnmaskSwap",
+      "episode": 1,
+      "seed": 1070100,
+      "difficulty": "easy"
+    },
+    {
+      "task": "ButtonUnmaskSwap",
+      "episode": 2,
+      "seed": 1070200,
+      "difficulty": "medium"
+    },
+    {
+      "task": "ButtonUnmaskSwap",
+      "episode": 3,
+      "seed": 1070300,
+      "difficulty": "hard"
+    },
+    {
+      "task": "ButtonUnmaskSwap",
+      "episode": 4,
+      "seed": 1070400,
+      "difficulty": "easy"
+    }
+  ]
+}

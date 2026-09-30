@@ -1,0 +1,36 @@
+{
+  "env_id": "SwingXtimes",
+  "record_count": 5,
+  "records": [
+    {
+      "task": "SwingXtimes",
+      "episode": 0,
+      "seed": 1030000,
+      "difficulty": "easy"
+    },
+    {
+      "task": "SwingXtimes",
+      "episode": 1,
+      "seed": 1030101,
+      "difficulty": "easy"
+    },
+    {
+      "task": "SwingXtimes",
+      "episode": 2,
+      "seed": 1030200,
+      "difficulty": "medium"
+    },
+    {
+      "task": "SwingXtimes",
+      "episode": 3,
+      "seed": 1030300,
+      "difficulty": "hard"
+    },
+    {
+      "task": "SwingXtimes",
+      "episode": 4,
+      "seed": 1030400,
+      "difficulty": "easy"
+    }
+  ]
+}

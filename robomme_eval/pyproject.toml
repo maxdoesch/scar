@@ -1,0 +1,37 @@
+[project]
+name = "robomme-eval"
+version = "0.1.0"
+description = "RoboMME benchmark evaluation harness (isolated env, separate from the main uv workspace)"
+readme = "readme.md"
+requires-python = ">=3.11"
+dependencies = [
+    "ninja==1.13.0",
+    "deepspeed==0.18.3",
+    "transformers==4.57.3",
+    "moviepy==2.2.1",
+    "setuptools==80.9.0",
+    "torch==2.9.1",
+    "torchvision==0.24.1",
+    "tyro>=0.9.5",
+    "imageio>=2.36.1",
+    "numpy",
+    "opencv-python",
+    "tqdm",
+    "openpi-client",
+    "robomme",
+]
+
+[tool.uv.sources]
+openpi-client = { path = "../packages/openpi-client", editable = true }
+robomme = { path = "../third_party/robomme_benchmark", editable = true }
+
+[project.scripts]
+robomme-eval = "robomme_eval.eval:main"
+robomme-eval-smoke-test = "robomme_eval.simple_test:main"
+
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[tool.hatch.build.targets.wheel]
+packages = ["src/robomme_eval"]

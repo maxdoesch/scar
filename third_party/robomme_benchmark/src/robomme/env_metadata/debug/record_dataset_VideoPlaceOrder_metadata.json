@@ -1,0 +1,36 @@
+{
+  "env_id": "VideoPlaceOrder",
+  "record_count": 5,
+  "records": [
+    {
+      "task": "VideoPlaceOrder",
+      "episode": 0,
+      "seed": 1110000,
+      "difficulty": "easy"
+    },
+    {
+      "task": "VideoPlaceOrder",
+      "episode": 1,
+      "seed": 1110100,
+      "difficulty": "easy"
+    },
+    {
+      "task": "VideoPlaceOrder",
+      "episode": 2,
+      "seed": 1110200,
+      "difficulty": "medium"
+    },
+    {
+      "task": "VideoPlaceOrder",
+      "episode": 3,
+      "seed": 1110304,
+      "difficulty": "hard"
+    },
+    {
+      "task": "VideoPlaceOrder",
+      "episode": 4,
+      "seed": 1110400,
+      "difficulty": "easy"
+    }
+  ]
+}

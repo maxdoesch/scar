@@ -1,0 +1,2406 @@
+{
+  "env_id": "BinFill",
+  "record_count": 400,
+  "records": [
+    {
+      "task": "BinFill",
+      "episode": 0,
+      "seed": 2000000,
+      "difficulty": "easy"
+    },
+    {
+      "task": "BinFill",
+      "episode": 1,
+      "seed": 2000100,
+      "difficulty": "medium"
+    },
+    {
+      "task": "BinFill",
+      "episode": 2,
+      "seed": 2000200,
+      "difficulty": "hard"
+    },
+    {
+      "task": "BinFill",
+      "episode": 3,
+      "seed": 2000300,
+      "difficulty": "easy"
+    },
+    {
+      "task": "BinFill",
+      "episode": 4,
+      "seed": 2000400,
+      "difficulty": "medium"
+    },
+    {
+      "task": "BinFill",
+      "episode": 5,
+      "seed": 2000500,
+      "difficulty": "hard"
+    },
+    {
+      "task": "BinFill",
+      "episode": 6,
+      "seed": 2000600,
+      "difficulty": "easy"
+    },
+    {
+      "task": "BinFill",
+      "episode": 7,
+      "seed": 2000700,
+      "difficulty": "medium"
+    },
+    {
+      "task": "BinFill",
+      "episode": 8,
+      "seed": 2000800,
+      "difficulty": "hard"
+    },
+    {
+      "task": "BinFill",
+      "episode": 9,
+      "seed": 2000900,
+      "difficulty": "easy"
+    },
+    {
+      "task": "BinFill",
+      "episode": 10,
+      "seed": 2001000,
+      "difficulty": "medium"
+    },
+    {
+      "task": "BinFill",
+      "episode": 11,
+      "seed": 2001100,
+      "difficulty": "hard"
+    },
+    {
+      "task": "BinFill",
+      "episode": 12,
+      "seed": 2001200,
+      "difficulty": "easy"
+    },
+    {
+      "task": "BinFill",
+      "episode": 13,
+      "seed": 2001300,
+      "difficulty": "medium"
+    },
+    {
+      "task": "BinFill",
+      "episode": 14,
+      "seed": 2001400,
+      "difficulty": "hard"
+    },
+    {
+      "task": "BinFill",
+      "episode": 15,
+      "seed": 2001500,
+      "difficulty": "easy"
+    },
+    {
+      "task": "BinFill",
+      "episode": 16,
+      "seed": 2001600,
+      "difficulty": "medium"
+    },
+    {
+      "task": "BinFill",
+      "episode": 17,
+      "seed": 2001700,
+      "difficulty": "hard"
+    },
+    {
+      "task": "BinFill",
+      "episode": 18,
+      "seed": 2001800,
+      "difficulty": "easy"
+    },
+    {
+      "task": "BinFill",
+      "episode": 19,
+      "seed": 2001900,
+      "difficulty": "medium"
+    },
+    {
+      "task": "BinFill",
+      "episode": 20,
+      "seed": 2002000,
+      "difficulty": "hard"
+    },
+    {
+      "task": "BinFill",
+      "episode": 21,
+      "seed": 2002100,
+      "difficulty": "easy"
+    },
+    {
+      "task": "BinFill",
+      "episode": 22,
+      "seed": 2002200,
+      "difficulty": "medium"
+    },
+    {
+      "task": "BinFill",
+      "episode": 23,
+      "seed": 2002300,
+      "difficulty": "hard"
+    },
+    {
+      "task": "BinFill",
+      "episode": 24,
+      "seed": 2002400,
+      "difficulty": "easy"
+    },
+    {
+      "task": "BinFill",
+      "episode": 25,
+      "seed": 2002500,
+      "difficulty": "medium"
+    },
+    {
+      "task": "BinFill",
+      "episode": 26,
+      "seed": 2002600,
+      "difficulty": "hard"
+    },
+    {
+      "task": "BinFill",
+      "episode": 27,
+      "seed": 2002700,
+      "difficulty": "easy"
+    },
+    {
+      "task": "BinFill",
+      "episode": 28,
+      "seed": 2002800,
+      "difficulty": "medium"
+    },
+    {
+      "task": "BinFill",
+      "episode": 29,
+      "seed": 2002900,
+      "difficulty": "hard"
+    },
+    {
+      "task": "BinFill",
+      "episode": 30,
+      "seed": 2003000,
+      "difficulty": "easy"
+    },
+    {
+      "task": "BinFill",
+      "episode": 31,
+      "seed": 2003100,
+      "difficulty": "medium"
+    },
+    {
+      "task": "BinFill",
+      "episode": 32,
+      "seed": 2003200,
+      "difficulty": "hard"
+    },
+    {
+      "task": "BinFill",
+      "episode": 33,
+      "seed": 2003300,
+      "difficulty": "easy"
+    },
+    {
+      "task": "BinFill",
+      "episode": 34,
+      "seed": 2003400,
+      "difficulty": "medium"
+    },
+    {
+      "task": "BinFill",
+      "episode": 35,
+      "seed": 2003500,
+      "difficulty": "hard"
+    },
+    {
+      "task": "BinFill",
+      "episode": 36,
+      "seed": 2003600,
+      "difficulty": "easy"
+    },
+    {
+      "task": "BinFill",
+      "episode": 37,
+      "seed": 2003700,
+      "difficulty": "medium"
+    },
+    {
+      "task": "BinFill",
+      "episode": 38,
+      "seed": 2003800,
+      "difficulty": "hard"
+    },
+    {
+      "task": "BinFill",
+      "episode": 39,
+      "seed": 2003900,
+      "difficulty": "easy"
+    },
+    {
+      "task": "BinFill",
+      "episode": 40,
+      "seed": 2004000,
+      "difficulty": "medium"
+    },
+    {
+      "task": "BinFill",
+      "episode": 41,
+      "seed": 2004100,
+      "difficulty": "hard"
+    },
+    {
+      "task": "BinFill",
+      "episode": 42,
+      "seed": 2004200,
+      "difficulty": "easy"
+    },
+    {
+      "task": "BinFill",
+      "episode": 43,
+      "seed": 2004300,
+      "difficulty": "medium"
+    },
+    {
+      "task": "BinFill",
+      "episode": 44,
+      "seed": 2004400,
+      "difficulty": "hard"
+    },
+    {
+      "task": "BinFill",
+      "episode": 45,
+      "seed": 2004500,
+      "difficulty": "easy"
+    },
+    {
+      "task": "BinFill",
+      "episode": 46,
+      "seed": 2004600,
+      "difficulty": "medium"
+    },
+    {
+      "task": "BinFill",
+      "episode": 47,
+      "seed": 2004700,
+      "difficulty": "hard"
+    },
+    {
+      "task": "BinFill",
+      "episode": 48,
+      "seed": 2004800,
+      "difficulty": "easy"
+    },
+    {
+      "task": "BinFill",
+      "episode": 49,
+      "seed": 2004900,
+      "difficulty": "medium"
+    },
+    {
+      "task": "BinFill",
+      "episode": 50,
+      "seed": 2005000,
+      "difficulty": "hard"
+    },
+    {
+      "task": "BinFill",
+      "episode": 51,
+      "seed": 2005100,
+      "difficulty": "easy"
+    },
+    {
+      "task": "BinFill",
+      "episode": 52,
+      "seed": 2005200,
+      "difficulty": "medium"
+    },
+    {
+      "task": "BinFill",
+      "episode": 53,
+      "seed": 2005300,
+      "difficulty": "hard"
+    },
+    {
+      "task": "BinFill",
+      "episode": 54,
+      "seed": 2005400,
+      "difficulty": "easy"
+    },
+    {
+      "task": "BinFill",
+      "episode": 55,
+      "seed": 2005500,
+      "difficulty": "medium"
+    },
+    {
+      "task": "BinFill",
+      "episode": 56,
+      "seed": 2005600,
+      "difficulty": "hard"
+    },
+    {
+      "task": "BinFill",
+      "episode": 57,
+      "seed": 2005700,
+      "difficulty": "easy"
+    },
+    {
+      "task": "BinFill",
+      "episode": 58,
+      "seed": 2005800,
+      "difficulty": "medium"
+    },
+    {
+      "task": "BinFill",
+      "episode": 59,
+      "seed": 2005900,
+      "difficulty": "hard"
+    },
+    {
+      "task": "BinFill",
+      "episode": 60,
+      "seed": 2006000,
+      "difficulty": "easy"
+    },
+    {
+      "task": "BinFill",
+      "episode": 61,
+      "seed": 2006100,
+      "difficulty": "medium"
+    },
+    {
+      "task": "BinFill",
+      "episode": 62,
+      "seed": 2006200,
+      "difficulty": "hard"
+    },
+    {
+      "task": "BinFill",
+      "episode": 63,
+      "seed": 2006300,
+      "difficulty": "easy"
+    },
+    {
+      "task": "BinFill",
+      "episode": 64,
+      "seed": 2006400,
+      "difficulty": "medium"
+    },
+    {
+      "task": "BinFill",
+      "episode": 65,
+      "seed": 2006500,
+      "difficulty": "hard"
+    },
+    {
+      "task": "BinFill",
+      "episode": 66,
+      "seed": 2006600,
+      "difficulty": "easy"
+    },
+    {
+      "task": "BinFill",
+      "episode": 67,
+      "seed": 2006700,
+      "difficulty": "medium"
+    },
+    {
+      "task": "BinFill",
+      "episode": 68,
+      "seed": 2006800,
+      "difficulty": "hard"
+    },
+    {
+      "task": "BinFill",
+      "episode": 69,
+      "seed": 2006900,
+      "difficulty": "easy"
+    },
+    {
+      "task": "BinFill",
+      "episode": 70,
+      "seed": 2007000,
+      "difficulty": "medium"
+    },
+    {
+      "task": "BinFill",
+      "episode": 71,
+      "seed": 2007100,
+      "difficulty": "hard"
+    },
+    {
+      "task": "BinFill",
+      "episode": 72,
+      "seed": 2007200,
+      "difficulty": "easy"
+    },
+    {
+      "task": "BinFill",
+      "episode": 73,
+      "seed": 2007300,
+      "difficulty": "medium"
+    },
+    {
+      "task": "BinFill",
+      "episode": 74,
+      "seed": 2007400,
+      "difficulty": "hard"
+    },
+    {
+      "task": "BinFill",
+      "episode": 75,
+      "seed": 2007500,
+      "difficulty": "easy"
+    },
+    {
+      "task": "BinFill",
+      "episode": 76,
+      "seed": 2007600,
+      "difficulty": "medium"
+    },
+    {
+      "task": "BinFill",
+      "episode": 77,
+      "seed": 2007700,
+      "difficulty": "hard"
+    },
+    {
+      "task": "BinFill",
+      "episode": 78,
+      "seed": 2007800,
+      "difficulty": "easy"
+    },
+    {
+      "task": "BinFill",
+      "episode": 79,
+      "seed": 2007900,
+      "difficulty": "medium"
+    },
+    {
+      "task": "BinFill",
+      "episode": 80,
+      "seed": 2008000,
+      "difficulty": "hard"
+    },
+    {
+      "task": "BinFill",
+      "episode": 81,
+      "seed": 2008100,
+      "difficulty": "easy"
+    },
+    {
+      "task": "BinFill",
+      "episode": 82,
+      "seed": 2008200,
+      "difficulty": "medium"
+    },
+    {
+      "task": "BinFill",
+      "episode": 83,
+      "seed": 2008300,
+      "difficulty": "hard"
+    },
+    {
+      "task": "BinFill",
+      "episode": 84,
+      "seed": 2008400,
+      "difficulty": "easy"
+    },
+    {
+      "task": "BinFill",
+      "episode": 85,
+      "seed": 2008500,
+      "difficulty": "medium"
+    },
+    {
+      "task": "BinFill",
+      "episode": 86,
+      "seed": 2008600,
+      "difficulty": "hard"
+    },
+    {
+      "task": "BinFill",
+      "episode": 87,
+      "seed": 2008700,
+      "difficulty": "easy"
+    },
+    {
+      "task": "BinFill",
+      "episode": 88,
+      "seed": 2008800,
+      "difficulty": "medium"
+    },
+    {
+      "task": "BinFill",
+      "episode": 89,
+      "seed": 2008900,
+      "difficulty": "hard"
+    },
+    {
+      "task": "BinFill",
+      "episode": 90,
+      "seed": 2009000,
+      "difficulty": "easy"
+    },
+    {
+      "task": "BinFill",
+      "episode": 91,
+      "seed": 2009100,
+      "difficulty": "medium"
+    },
+    {
+      "task": "BinFill",
+      "episode": 92,
+      "seed": 2009200,
+      "difficulty": "hard"
+    },
+    {
+      "task": "BinFill",
+      "episode": 93,
+      "seed": 2009300,
+      "difficulty": "easy"
+    },
+    {
+      "task": "BinFill",
+      "episode": 94,
+      "seed": 2009400,
+      "difficulty": "medium"
+    },
+    {
+      "task": "BinFill",
+      "episode": 95,
+      "seed": 2009500,
+      "difficulty": "hard"
+    },
+    {
+      "task": "BinFill",
+      "episode": 96,
+      "seed": 2009600,
+      "difficulty": "easy"
+    },
+    {
+      "task": "BinFill",
+      "episode": 97,
+      "seed": 2009700,
+      "difficulty": "medium"
+    },
+    {
+      "task": "BinFill",
+      "episode": 98,
+      "seed": 2009800,
+      "difficulty": "hard"
+    },
+    {
+      "task": "BinFill",
+      "episode": 99,
+      "seed": 2009900,
+      "difficulty": "easy"
+    },
+    {
+      "task": "BinFill",
+      "episode": 100,
+      "seed": 2010000,
+      "difficulty": "medium"
+    },
+    {
+      "task": "BinFill",
+      "episode": 101,
+      "seed": 2010100,
+      "difficulty": "hard"
+    },
+    {
+      "task": "BinFill",
+      "episode": 102,
+      "seed": 2010200,
+      "difficulty": "easy"
+    },
+    {
+      "task": "BinFill",
+      "episode": 103,
+      "seed": 2010300,
+      "difficulty": "medium"
+    },
+    {
+      "task": "BinFill",
+      "episode": 104,
+      "seed": 2010400,
+      "difficulty": "hard"
+    },
+    {
+      "task": "BinFill",
+      "episode": 105,
+      "seed": 2010500,
+      "difficulty": "easy"
+    },
+    {
+      "task": "BinFill",
+      "episode": 106,
+      "seed": 2010600,
+      "difficulty": "medium"
+    },
+    {
+      "task": "BinFill",
+      "episode": 107,
+      "seed": 2010700,
+      "difficulty": "hard"
+    },
+    {
+      "task": "BinFill",
+      "episode": 108,
+      "seed": 2010800,
+      "difficulty": "easy"
+    },
+    {
+      "task": "BinFill",
+      "episode": 109,
+      "seed": 2010900,
+      "difficulty": "medium"
+    },
+    {
+      "task": "BinFill",
+      "episode": 110,
+      "seed": 2011000,
+      "difficulty": "hard"
+    },
+    {
+      "task": "BinFill",
+      "episode": 111,
+      "seed": 2011100,
+      "difficulty": "easy"
+    },
+    {
+      "task": "BinFill",
+      "episode": 112,
+      "seed": 2011200,
+      "difficulty": "medium"
+    },
+    {
+      "task": "BinFill",
+      "episode": 113,
+      "seed": 2011300,
+      "difficulty": "hard"
+    },
+    {
+      "task": "BinFill",
+      "episode": 114,
+      "seed": 2011400,
+      "difficulty": "easy"
+    },
+    {
+      "task": "BinFill",
+      "episode": 115,
+      "seed": 2011500,
+      "difficulty": "medium"
+    },
+    {
+      "task": "BinFill",
+      "episode": 116,
+      "seed": 2011600,
+      "difficulty": "hard"
+    },
+    {
+      "task": "BinFill",
+      "episode": 117,
+      "seed": 2011700,
+      "difficulty": "easy"
+    },
+    {
+      "task": "BinFill",
+      "episode": 118,
+      "seed": 2011800,
+      "difficulty": "medium"
+    },
+    {
+      "task": "BinFill",
+      "episode": 119,
+      "seed": 2011900,
+      "difficulty": "hard"
+    },
+    {
+      "task": "BinFill",
+      "episode": 120,
+      "seed": 2012000,
+      "difficulty": "easy"
+    },
+    {
+      "task": "BinFill",
+      "episode": 121,
+      "seed": 2012100,
+      "difficulty": "medium"
+    },
+    {
+      "task": "BinFill",
+      "episode": 122,
+      "seed": 2012200,
+      "difficulty": "hard"
+    },
+    {
+      "task": "BinFill",
+      "episode": 123,
+      "seed": 2012300,
+      "difficulty": "easy"
+    },
+    {
+      "task": "BinFill",
+      "episode": 124,
+      "seed": 2012400,
+      "difficulty": "medium"
+    },
+    {
+      "task": "BinFill",
+      "episode": 125,
+      "seed": 2012500,
+      "difficulty": "hard"
+    },
+    {
+      "task": "BinFill",
+      "episode": 126,
+      "seed": 2012600,
+      "difficulty": "easy"
+    },
+    {
+      "task": "BinFill",
+      "episode": 127,
+      "seed": 2012700,
+      "difficulty": "medium"
+    },
+    {
+      "task": "BinFill",
+      "episode": 128,
+      "seed": 2012800,
+      "difficulty": "hard"
+    },
+    {
+      "task": "BinFill",
+      "episode": 129,
+      "seed": 2012900,
+      "difficulty": "easy"
+    },
+    {
+      "task": "BinFill",
+      "episode": 130,
+      "seed": 2013000,
+      "difficulty": "medium"
+    },
+    {
+      "task": "BinFill",
+      "episode": 131,
+      "seed": 2013100,
+      "difficulty": "hard"
+    },
+    {
+      "task": "BinFill",
+      "episode": 132,
+      "seed": 2013200,
+      "difficulty": "easy"
+    },
+    {
+      "task": "BinFill",
+      "episode": 133,
+      "seed": 2013300,
+      "difficulty": "medium"
+    },
+    {
+      "task": "BinFill",
+      "episode": 134,
+      "seed": 2013400,
+      "difficulty": "hard"
+    },
+    {
+      "task": "BinFill",
+      "episode": 135,
+      "seed": 2013500,
+      "difficulty": "easy"
+    },
+    {
+      "task": "BinFill",
+      "episode": 136,
+      "seed": 2013600,
+      "difficulty": "medium"
+    },
+    {
+      "task": "BinFill",
+      "episode": 137,
+      "seed": 2013700,
+      "difficulty": "hard"
+    },
+    {
+      "task": "BinFill",
+      "episode": 138,
+      "seed": 2013800,
+      "difficulty": "easy"
+    },
+    {
+      "task": "BinFill",
+      "episode": 139,
+      "seed": 2013900,
+      "difficulty": "medium"
+    },
+    {
+      "task": "BinFill",
+      "episode": 140,
+      "seed": 2014000,
+      "difficulty": "hard"
+    },
+    {
+      "task": "BinFill",
+      "episode": 141,
+      "seed": 2014100,
+      "difficulty": "easy"
+    },
+    {
+      "task": "BinFill",
+      "episode": 142,
+      "seed": 2014200,
+      "difficulty": "medium"
+    },
+    {
+      "task": "BinFill",
+      "episode": 143,
+      "seed": 2014300,
+      "difficulty": "hard"
+    },
+    {
+      "task": "BinFill",
+      "episode": 144,
+      "seed": 2014400,
+      "difficulty": "easy"
+    },
+    {
+      "task": "BinFill",
+      "episode": 145,
+      "seed": 2014500,
+      "difficulty": "medium"
+    },
+    {
+      "task": "BinFill",
+      "episode": 146,
+      "seed": 2014600,
+      "difficulty": "hard"
+    },
+    {
+      "task": "BinFill",
+      "episode": 147,
+      "seed": 2014700,
+      "difficulty": "easy"
+    },
+    {
+      "task": "BinFill",
+      "episode": 148,
+      "seed": 2014800,
+      "difficulty": "medium"
+    },
+    {
+      "task": "BinFill",
+      "episode": 149,
+      "seed": 2014900,
+      "difficulty": "hard"
+    },
+    {
+      "task": "BinFill",
+      "episode": 150,
+      "seed": 2015000,
+      "difficulty": "easy"
+    },
+    {
+      "task": "BinFill",
+      "episode": 151,
+      "seed": 2015100,
+      "difficulty": "medium"
+    },
+    {
+      "task": "BinFill",
+      "episode": 152,
+      "seed": 2015200,
+      "difficulty": "hard"
+    },
+    {
+      "task": "BinFill",
+      "episode": 153,
+      "seed": 2015300,
+      "difficulty": "easy"
+    },
+    {
+      "task": "BinFill",
+      "episode": 154,
+      "seed": 2015400,
+      "difficulty": "medium"
+    },
+    {
+      "task": "BinFill",
+      "episode": 155,
+      "seed": 2015500,
+      "difficulty": "hard"
+    },
+    {
+      "task": "BinFill",
+      "episode": 156,
+      "seed": 2015600,
+      "difficulty": "easy"
+    },
+    {
+      "task": "BinFill",
+      "episode": 157,
+      "seed": 2015700,
+      "difficulty": "medium"
+    },
+    {
+      "task": "BinFill",
+      "episode": 158,
+      "seed": 2015800,
+      "difficulty": "hard"
+    },
+    {
+      "task": "BinFill",
+      "episode": 159,
+      "seed": 2015900,
+      "difficulty": "easy"
+    },
+    {
+      "task": "BinFill",
+      "episode": 160,
+      "seed": 2016000,
+      "difficulty": "medium"
+    },
+    {
+      "task": "BinFill",
+      "episode": 161,
+      "seed": 2016100,
+      "difficulty": "hard"
+    },
+    {
+      "task": "BinFill",
+      "episode": 162,
+      "seed": 2016200,
+      "difficulty": "easy"
+    },
+    {
+      "task": "BinFill",
+      "episode": 163,
+      "seed": 2016300,
+      "difficulty": "medium"
+    },
+    {
+      "task": "BinFill",
+      "episode": 164,
+      "seed": 2016400,
+      "difficulty": "hard"
+    },
+    {
+      "task": "BinFill",
+      "episode": 165,
+      "seed": 2016500,
+      "difficulty": "easy"
+    },
+    {
+      "task": "BinFill",
+      "episode": 166,
+      "seed": 2016600,
+      "difficulty": "medium"
+    },
+    {
+      "task": "BinFill",
+      "episode": 167,
+      "seed": 2016700,
+      "difficulty": "hard"
+    },
+    {
+      "task": "BinFill",
+      "episode": 168,
+      "seed": 2016800,
+      "difficulty": "easy"
+    },
+    {
+      "task": "BinFill",
+      "episode": 169,
+      "seed": 2016900,
+      "difficulty": "medium"
+    },
+    {
+      "task": "BinFill",
+      "episode": 170,
+      "seed": 2017000,
+      "difficulty": "hard"
+    },
+    {
+      "task": "BinFill",
+      "episode": 171,
+      "seed": 2017100,
+      "difficulty": "easy"
+    },
+    {
+      "task": "BinFill",
+      "episode": 172,
+      "seed": 2017200,
+      "difficulty": "medium"
+    },
+    {
+      "task": "BinFill",
+      "episode": 173,
+      "seed": 2017300,
+      "difficulty": "hard"
+    },
+    {
+      "task": "BinFill",
+      "episode": 174,
+      "seed": 2017400,
+      "difficulty": "easy"
+    },
+    {
+      "task": "BinFill",
+      "episode": 175,
+      "seed": 2017500,
+      "difficulty": "medium"
+    },
+    {
+      "task": "BinFill",
+      "episode": 176,
+      "seed": 2017600,
+      "difficulty": "hard"
+    },
+    {
+      "task": "BinFill",
+      "episode": 177,
+      "seed": 2017700,
+      "difficulty": "easy"
+    },
+    {
+      "task": "BinFill",
+      "episode": 178,
+      "seed": 2017800,
+      "difficulty": "medium"
+    },
+    {
+      "task": "BinFill",
+      "episode": 179,
+      "seed": 2017900,
+      "difficulty": "hard"
+    },
+    {
+      "task": "BinFill",
+      "episode": 180,
+      "seed": 2018000,
+      "difficulty": "easy"
+    },
+    {
+      "task": "BinFill",
+      "episode": 181,
+      "seed": 2018100,
+      "difficulty": "medium"
+    },
+    {
+      "task": "BinFill",
+      "episode": 182,
+      "seed": 2018200,
+      "difficulty": "hard"
+    },
+    {
+      "task": "BinFill",
+      "episode": 183,
+      "seed": 2018300,
+      "difficulty": "easy"
+    },
+    {
+      "task": "BinFill",
+      "episode": 184,
+      "seed": 2018400,
+      "difficulty": "medium"
+    },
+    {
+      "task": "BinFill",
+      "episode": 185,
+      "seed": 2018500,
+      "difficulty": "hard"
+    },
+    {
+      "task": "BinFill",
+      "episode": 186,
+      "seed": 2018600,
+      "difficulty": "easy"
+    },
+    {
+      "task": "BinFill",
+      "episode": 187,
+      "seed": 2018700,
+      "difficulty": "medium"
+    },
+    {
+      "task": "BinFill",
+      "episode": 188,
+      "seed": 2018800,
+      "difficulty": "hard"
+    },
+    {
+      "task": "BinFill",
+      "episode": 189,
+      "seed": 2018900,
+      "difficulty": "easy"
+    },
+    {
+      "task": "BinFill",
+      "episode": 190,
+      "seed": 2019000,
+      "difficulty": "medium"
+    },
+    {
+      "task": "BinFill",
+      "episode": 191,
+      "seed": 2019100,
+      "difficulty": "hard"
+    },
+    {
+      "task": "BinFill",
+      "episode": 192,
+      "seed": 2019200,
+      "difficulty": "easy"
+    },
+    {
+      "task": "BinFill",
+      "episode": 193,
+      "seed": 2019300,
+      "difficulty": "medium"
+    },
+    {
+      "task": "BinFill",
+      "episode": 194,
+      "seed": 2019400,
+      "difficulty": "hard"
+    },
+    {
+      "task": "BinFill",
+      "episode": 195,
+      "seed": 2019500,
+      "difficulty": "easy"
+    },
+    {
+      "task": "BinFill",
+      "episode": 196,
+      "seed": 2019600,
+      "difficulty": "medium"
+    },
+    {
+      "task": "BinFill",
+      "episode": 197,
+      "seed": 2019700,
+      "difficulty": "hard"
+    },
+    {
+      "task": "BinFill",
+      "episode": 198,
+      "seed": 2019800,
+      "difficulty": "easy"
+    },
+    {
+      "task": "BinFill",
+      "episode": 199,
+      "seed": 2019900,
+      "difficulty": "medium"
+    },
+    {
+      "task": "BinFill",
+      "episode": 200,
+      "seed": 2020000,
+      "difficulty": "hard"
+    },
+    {
+      "task": "BinFill",
+      "episode": 201,
+      "seed": 2020100,
+      "difficulty": "easy"
+    },
+    {
+      "task": "BinFill",
+      "episode": 202,
+      "seed": 2020200,
+      "difficulty": "medium"
+    },
+    {
+      "task": "BinFill",
+      "episode": 203,
+      "seed": 2020300,
+      "difficulty": "hard"
+    },
+    {
+      "task": "BinFill",
+      "episode": 204,
+      "seed": 2020400,
+      "difficulty": "easy"
+    },
+    {
+      "task": "BinFill",
+      "episode": 205,
+      "seed": 2020500,
+      "difficulty": "medium"
+    },
+    {
+      "task": "BinFill",
+      "episode": 206,
+      "seed": 2020600,
+      "difficulty": "hard"
+    },
+    {
+      "task": "BinFill",
+      "episode": 207,
+      "seed": 2020700,
+      "difficulty": "easy"
+    },
+    {
+      "task": "BinFill",
+      "episode": 208,
+      "seed": 2020800,
+      "difficulty": "medium"
+    },
+    {
+      "task": "BinFill",
+      "episode": 209,
+      "seed": 2020900,
+      "difficulty": "hard"
+    },
+    {
+      "task": "BinFill",
+      "episode": 210,
+      "seed": 2021000,
+      "difficulty": "easy"
+    },
+    {
+      "task": "BinFill",
+      "episode": 211,
+      "seed": 2021100,
+      "difficulty": "medium"
+    },
+    {
+      "task": "BinFill",
+      "episode": 212,
+      "seed": 2021200,
+      "difficulty": "hard"
+    },
+    {
+      "task": "BinFill",
+      "episode": 213,
+      "seed": 2021300,
+      "difficulty": "easy"
+    },
+    {
+      "task": "BinFill",
+      "episode": 214,
+      "seed": 2021400,
+      "difficulty": "medium"
+    },
+    {
+      "task": "BinFill",
+      "episode": 215,
+      "seed": 2021500,
+      "difficulty": "hard"
+    },
+    {
+      "task": "BinFill",
+      "episode": 216,
+      "seed": 2021600,
+      "difficulty": "easy"
+    },
+    {
+      "task": "BinFill",
+      "episode": 217,
+      "seed": 2021700,
+      "difficulty": "medium"
+    },
+    {
+      "task": "BinFill",
+      "episode": 218,
+      "seed": 2021800,
+      "difficulty": "hard"
+    },
+    {
+      "task": "BinFill",
+      "episode": 219,
+      "seed": 2021900,
+      "difficulty": "easy"
+    },
+    {
+      "task": "BinFill",
+      "episode": 220,
+      "seed": 2022000,
+      "difficulty": "medium"
+    },
+    {
+      "task": "BinFill",
+      "episode": 221,
+      "seed": 2022100,
+      "difficulty": "hard"
+    },
+    {
+      "task": "BinFill",
+      "episode": 222,
+      "seed": 2022200,
+      "difficulty": "easy"
+    },
+    {
+      "task": "BinFill",
+      "episode": 223,
+      "seed": 2022300,
+      "difficulty": "medium"
+    },
+    {
+      "task": "BinFill",
+      "episode": 224,
+      "seed": 2022400,
+      "difficulty": "hard"
+    },
+    {
+      "task": "BinFill",
+      "episode": 225,
+      "seed": 2022500,
+      "difficulty": "easy"
+    },
+    {
+      "task": "BinFill",
+      "episode": 226,
+      "seed": 2022600,
+      "difficulty": "medium"
+    },
+    {
+      "task": "BinFill",
+      "episode": 227,
+      "seed": 2022700,
+      "difficulty": "hard"
+    },
+    {
+      "task": "BinFill",
+      "episode": 228,
+      "seed": 2022800,
+      "difficulty": "easy"
+    },
+    {
+      "task": "BinFill",
+      "episode": 229,
+      "seed": 2022900,
+      "difficulty": "medium"
+    },
+    {
+      "task": "BinFill",
+      "episode": 230,
+      "seed": 2023000,
+      "difficulty": "hard"
+    },
+    {
+      "task": "BinFill",
+      "episode": 231,
+      "seed": 2023100,
+      "difficulty": "easy"
+    },
+    {
+      "task": "BinFill",
+      "episode": 232,
+      "seed": 2023200,
+      "difficulty": "medium"
+    },
+    {
+      "task": "BinFill",
+      "episode": 233,
+      "seed": 2023300,
+      "difficulty": "hard"
+    },
+    {
+      "task": "BinFill",
+      "episode": 234,
+      "seed": 2023400,
+      "difficulty": "easy"
+    },
+    {
+      "task": "BinFill",
+      "episode": 235,
+      "seed": 2023500,
+      "difficulty": "medium"
+    },
+    {
+      "task": "BinFill",
+      "episode": 236,
+      "seed": 2023600,
+      "difficulty": "hard"
+    },
+    {
+      "task": "BinFill",
+      "episode": 237,
+      "seed": 2023700,
+      "difficulty": "easy"
+    },
+    {
+      "task": "BinFill",
+      "episode": 238,
+      "seed": 2023800,
+      "difficulty": "medium"
+    },
+    {
+      "task": "BinFill",
+      "episode": 239,
+      "seed": 2023900,
+      "difficulty": "hard"
+    },
+    {
+      "task": "BinFill",
+      "episode": 240,
+      "seed": 2024000,
+      "difficulty": "easy"
+    },
+    {
+      "task": "BinFill",
+      "episode": 241,
+      "seed": 2024100,
+      "difficulty": "medium"
+    },
+    {
+      "task": "BinFill",
+      "episode": 242,
+      "seed": 2024200,
+      "difficulty": "hard"
+    },
+    {
+      "task": "BinFill",
+      "episode": 243,
+      "seed": 2024300,
+      "difficulty": "easy"
+    },
+    {
+      "task": "BinFill",
+      "episode": 244,
+      "seed": 2024400,
+      "difficulty": "medium"
+    },
+    {
+      "task": "BinFill",
+      "episode": 245,
+      "seed": 2024500,
+      "difficulty": "hard"
+    },
+    {
+      "task": "BinFill",
+      "episode": 246,
+      "seed": 2024600,
+      "difficulty": "easy"
+    },
+    {
+      "task": "BinFill",
+      "episode": 247,
+      "seed": 2024700,
+      "difficulty": "medium"
+    },
+    {
+      "task": "BinFill",
+      "episode": 248,
+      "seed": 2024800,
+      "difficulty": "hard"
+    },
+    {
+      "task": "BinFill",
+      "episode": 249,
+      "seed": 2024900,
+      "difficulty": "easy"
+    },
+    {
+      "task": "BinFill",
+      "episode": 250,
+      "seed": 2025000,
+      "difficulty": "medium"
+    },
+    {
+      "task": "BinFill",
+      "episode": 251,
+      "seed": 2025100,
+      "difficulty": "hard"
+    },
+    {
+      "task": "BinFill",
+      "episode": 252,
+      "seed": 2025200,
+      "difficulty": "easy"
+    },
+    {
+      "task": "BinFill",
+      "episode": 253,
+      "seed": 2025300,
+      "difficulty": "medium"
+    },
+    {
+      "task": "BinFill",
+      "episode": 254,
+      "seed": 2025400,
+      "difficulty": "hard"
+    },
+    {
+      "task": "BinFill",
+      "episode": 255,
+      "seed": 2025500,
+      "difficulty": "easy"
+    },
+    {
+      "task": "BinFill",
+      "episode": 256,
+      "seed": 2025600,
+      "difficulty": "medium"
+    },
+    {
+      "task": "BinFill",
+      "episode": 257,
+      "seed": 2025700,
+      "difficulty": "hard"
+    },
+    {
+      "task": "BinFill",
+      "episode": 258,
+      "seed": 2025800,
+      "difficulty": "easy"
+    },
+    {
+      "task": "BinFill",
+      "episode": 259,
+      "seed": 2025900,
+      "difficulty": "medium"
+    },
+    {
+      "task": "BinFill",
+      "episode": 260,
+      "seed": 2026000,
+      "difficulty": "hard"
+    },
+    {
+      "task": "BinFill",
+      "episode": 261,
+      "seed": 2026100,
+      "difficulty": "easy"
+    },
+    {
+      "task": "BinFill",
+      "episode": 262,
+      "seed": 2026200,
+      "difficulty": "medium"
+    },
+    {
+      "task": "BinFill",
+      "episode": 263,
+      "seed": 2026300,
+      "difficulty": "hard"
+    },
+    {
+      "task": "BinFill",
+      "episode": 264,
+      "seed": 2026400,
+      "difficulty": "easy"
+    },
+    {
+      "task": "BinFill",
+      "episode": 265,
+      "seed": 2026500,
+      "difficulty": "medium"
+    },
+    {
+      "task": "BinFill",
+      "episode": 266,
+      "seed": 2026600,
+      "difficulty": "hard"
+    },
+    {
+      "task": "BinFill",
+      "episode": 267,
+      "seed": 2026700,
+      "difficulty": "easy"
+    },
+    {
+      "task": "BinFill",
+      "episode": 268,
+      "seed": 2026800,
+      "difficulty": "medium"
+    },
+    {
+      "task": "BinFill",
+      "episode": 269,
+      "seed": 2026900,
+      "difficulty": "hard"
+    },
+    {
+      "task": "BinFill",
+      "episode": 270,
+      "seed": 2027000,
+      "difficulty": "easy"
+    },
+    {
+      "task": "BinFill",
+      "episode": 271,
+      "seed": 2027100,
+      "difficulty": "medium"
+    },
+    {
+      "task": "BinFill",
+      "episode": 272,
+      "seed": 2027200,
+      "difficulty": "hard"
+    },
+    {
+      "task": "BinFill",
+      "episode": 273,
+      "seed": 2027300,
+      "difficulty": "easy"
+    },
+    {
+      "task": "BinFill",
+      "episode": 274,
+      "seed": 2027400,
+      "difficulty": "medium"
+    },
+    {
+      "task": "BinFill",
+      "episode": 275,
+      "seed": 2027500,
+      "difficulty": "hard"
+    },
+    {
+      "task": "BinFill",
+      "episode": 276,
+      "seed": 2027600,
+      "difficulty": "easy"
+    },
+    {
+      "task": "BinFill",
+      "episode": 277,
+      "seed": 2027700,
+      "difficulty": "medium"
+    },
+    {
+      "task": "BinFill",
+      "episode": 278,
+      "seed": 2027800,
+      "difficulty": "hard"
+    },
+    {
+      "task": "BinFill",
+      "episode": 279,
+      "seed": 2027900,
+      "difficulty": "easy"
+    },
+    {
+      "task": "BinFill",
+      "episode": 280,
+      "seed": 2028000,
+      "difficulty": "medium"
+    },
+    {
+      "task": "BinFill",
+      "episode": 281,
+      "seed": 2028100,
+      "difficulty": "hard"
+    },
+    {
+      "task": "BinFill",
+      "episode": 282,
+      "seed": 2028200,
+      "difficulty": "easy"
+    },
+    {
+      "task": "BinFill",
+      "episode": 283,
+      "seed": 2028300,
+      "difficulty": "medium"
+    },
+    {
+      "task": "BinFill",
+      "episode": 284,
+      "seed": 2028400,
+      "difficulty": "hard"
+    },
+    {
+      "task": "BinFill",
+      "episode": 285,
+      "seed": 2028500,
+      "difficulty": "easy"
+    },
+    {
+      "task": "BinFill",
+      "episode": 286,
+      "seed": 2028600,
+      "difficulty": "medium"
+    },
+    {
+      "task": "BinFill",
+      "episode": 287,
+      "seed": 2028700,
+      "difficulty": "hard"
+    },
+    {
+      "task": "BinFill",
+      "episode": 288,
+      "seed": 2028800,
+      "difficulty": "easy"
+    },
+    {
+      "task": "BinFill",
+      "episode": 289,
+      "seed": 2028900,
+      "difficulty": "medium"
+    },
+    {
+      "task": "BinFill",
+      "episode": 290,
+      "seed": 2029000,
+      "difficulty": "hard"
+    },
+    {
+      "task": "BinFill",
+      "episode": 291,
+      "seed": 2029100,
+      "difficulty": "easy"
+    },
+    {
+      "task": "BinFill",
+      "episode": 292,
+      "seed": 2029200,
+      "difficulty": "medium"
+    },
+    {
+      "task": "BinFill",
+      "episode": 293,
+      "seed": 2029300,
+      "difficulty": "hard"
+    },
+    {
+      "task": "BinFill",
+      "episode": 294,
+      "seed": 2029400,
+      "difficulty": "easy"
+    },
+    {
+      "task": "BinFill",
+      "episode": 295,
+      "seed": 2029500,
+      "difficulty": "medium"
+    },
+    {
+      "task": "BinFill",
+      "episode": 296,
+      "seed": 2029600,
+      "difficulty": "hard"
+    },
+    {
+      "task": "BinFill",
+      "episode": 297,
+      "seed": 2029700,
+      "difficulty": "easy"
+    },
+    {
+      "task": "BinFill",
+      "episode": 298,
+      "seed": 2029800,
+      "difficulty": "medium"
+    },
+    {
+      "task": "BinFill",
+      "episode": 299,
+      "seed": 2029900,
+      "difficulty": "hard"
+    },
+    {
+      "task": "BinFill",
+      "episode": 300,
+      "seed": 2030000,
+      "difficulty": "easy"
+    },
+    {
+      "task": "BinFill",
+      "episode": 301,
+      "seed": 2030100,
+      "difficulty": "medium"
+    },
+    {
+      "task": "BinFill",
+      "episode": 302,
+      "seed": 2030200,
+      "difficulty": "hard"
+    },
+    {
+      "task": "BinFill",
+      "episode": 303,
+      "seed": 2030300,
+      "difficulty": "easy"
+    },
+    {
+      "task": "BinFill",
+      "episode": 304,
+      "seed": 2030400,
+      "difficulty": "medium"
+    },
+    {
+      "task": "BinFill",
+      "episode": 305,
+      "seed": 2030500,
+      "difficulty": "hard"
+    },
+    {
+      "task": "BinFill",
+      "episode": 306,
+      "seed": 2030600,
+      "difficulty": "easy"
+    },
+    {
+      "task": "BinFill",
+      "episode": 307,
+      "seed": 2030700,
+      "difficulty": "medium"
+    },
+    {
+      "task": "BinFill",
+      "episode": 308,
+      "seed": 2030800,
+      "difficulty": "hard"
+    },
+    {
+      "task": "BinFill",
+      "episode": 309,
+      "seed": 2030900,
+      "difficulty": "easy"
+    },
+    {
+      "task": "BinFill",
+      "episode": 310,
+      "seed": 2031000,
+      "difficulty": "medium"
+    },
+    {
+      "task": "BinFill",
+      "episode": 311,
+      "seed": 2031100,
+      "difficulty": "hard"
+    },
+    {
+      "task": "BinFill",
+      "episode": 312,
+      "seed": 2031200,
+      "difficulty": "easy"
+    },
+    {
+      "task": "BinFill",
+      "episode": 313,
+      "seed": 2031300,
+      "difficulty": "medium"
+    },
+    {
+      "task": "BinFill",
+      "episode": 314,
+      "seed": 2031400,
+      "difficulty": "hard"
+    },
+    {
+      "task": "BinFill",
+      "episode": 315,
+      "seed": 2031500,
+      "difficulty": "easy"
+    },
+    {
+      "task": "BinFill",
+      "episode": 316,
+      "seed": 2031600,
+      "difficulty": "medium"
+    },
+    {
+      "task": "BinFill",
+      "episode": 317,
+      "seed": 2031700,
+      "difficulty": "hard"
+    },
+    {
+      "task": "BinFill",
+      "episode": 318,
+      "seed": 2031800,
+      "difficulty": "easy"
+    },
+    {
+      "task": "BinFill",
+      "episode": 319,
+      "seed": 2031900,
+      "difficulty": "medium"
+    },
+    {
+      "task": "BinFill",
+      "episode": 320,
+      "seed": 2032000,
+      "difficulty": "hard"
+    },
+    {
+      "task": "BinFill",
+      "episode": 321,
+      "seed": 2032100,
+      "difficulty": "easy"
+    },
+    {
+      "task": "BinFill",
+      "episode": 322,
+      "seed": 2032200,
+      "difficulty": "medium"
+    },
+    {
+      "task": "BinFill",
+      "episode": 323,
+      "seed": 2032300,
+      "difficulty": "hard"
+    },
+    {
+      "task": "BinFill",
+      "episode": 324,
+      "seed": 2032400,
+      "difficulty": "easy"
+    },
+    {
+      "task": "BinFill",
+      "episode": 325,
+      "seed": 2032500,
+      "difficulty": "medium"
+    },
+    {
+      "task": "BinFill",
+      "episode": 326,
+      "seed": 2032600,
+      "difficulty": "hard"
+    },
+    {
+      "task": "BinFill",
+      "episode": 327,
+      "seed": 2032700,
+      "difficulty": "easy"
+    },
+    {
+      "task": "BinFill",
+      "episode": 328,
+      "seed": 2032800,
+      "difficulty": "medium"
+    },
+    {
+      "task": "BinFill",
+      "episode": 329,
+      "seed": 2032900,
+      "difficulty": "hard"
+    },
+    {
+      "task": "BinFill",
+      "episode": 330,
+      "seed": 2033000,
+      "difficulty": "easy"
+    },
+    {
+      "task": "BinFill",
+      "episode": 331,
+      "seed": 2033100,
+      "difficulty": "medium"
+    },
+    {
+      "task": "BinFill",
+      "episode": 332,
+      "seed": 2033200,
+      "difficulty": "hard"
+    },
+    {
+      "task": "BinFill",
+      "episode": 333,
+      "seed": 2033300,
+      "difficulty": "easy"
+    },
+    {
+      "task": "BinFill",
+      "episode": 334,
+      "seed": 2033400,
+      "difficulty": "medium"
+    },
+    {
+      "task": "BinFill",
+      "episode": 335,
+      "seed": 2033500,
+      "difficulty": "hard"
+    },
+    {
+      "task": "BinFill",
+      "episode": 336,
+      "seed": 2033600,
+      "difficulty": "easy"
+    },
+    {
+      "task": "BinFill",
+      "episode": 337,
+      "seed": 2033700,
+      "difficulty": "medium"
+    },
+    {
+      "task": "BinFill",
+      "episode": 338,
+      "seed": 2033800,
+      "difficulty": "hard"
+    },
+    {
+      "task": "BinFill",
+      "episode": 339,
+      "seed": 2033900,
+      "difficulty": "easy"
+    },
+    {
+      "task": "BinFill",
+      "episode": 340,
+      "seed": 2034000,
+      "difficulty": "medium"
+    },
+    {
+      "task": "BinFill",
+      "episode": 341,
+      "seed": 2034100,
+      "difficulty": "hard"
+    },
+    {
+      "task": "BinFill",
+      "episode": 342,
+      "seed": 2034200,
+      "difficulty": "easy"
+    },
+    {
+      "task": "BinFill",
+      "episode": 343,
+      "seed": 2034300,
+      "difficulty": "medium"
+    },
+    {
+      "task": "BinFill",
+      "episode": 344,
+      "seed": 2034400,
+      "difficulty": "hard"
+    },
+    {
+      "task": "BinFill",
+      "episode": 345,
+      "seed": 2034500,
+      "difficulty": "easy"
+    },
+    {
+      "task": "BinFill",
+      "episode": 346,
+      "seed": 2034600,
+      "difficulty": "medium"
+    },
+    {
+      "task": "BinFill",
+      "episode": 347,
+      "seed": 2034700,
+      "difficulty": "hard"
+    },
+    {
+      "task": "BinFill",
+      "episode": 348,
+      "seed": 2034800,
+      "difficulty": "easy"
+    },
+    {
+      "task": "BinFill",
+      "episode": 349,
+      "seed": 2034900,
+      "difficulty": "medium"
+    },
+    {
+      "task": "BinFill",
+      "episode": 350,
+      "seed": 2035000,
+      "difficulty": "hard"
+    },
+    {
+      "task": "BinFill",
+      "episode": 351,
+      "seed": 2035100,
+      "difficulty": "easy"
+    },
+    {
+      "task": "BinFill",
+      "episode": 352,
+      "seed": 2035200,
+      "difficulty": "medium"
+    },
+    {
+      "task": "BinFill",
+      "episode": 353,
+      "seed": 2035300,
+      "difficulty": "hard"
+    },
+    {
+      "task": "BinFill",
+      "episode": 354,
+      "seed": 2035400,
+      "difficulty": "easy"
+    },
+    {
+      "task": "BinFill",
+      "episode": 355,
+      "seed": 2035500,
+      "difficulty": "medium"
+    },
+    {
+      "task": "BinFill",
+      "episode": 356,
+      "seed": 2035600,
+      "difficulty": "hard"
+    },
+    {
+      "task": "BinFill",
+      "episode": 357,
+      "seed": 2035700,
+      "difficulty": "easy"
+    },
+    {
+      "task": "BinFill",
+      "episode": 358,
+      "seed": 2035800,
+      "difficulty": "medium"
+    },
+    {
+      "task": "BinFill",
+      "episode": 359,
+      "seed": 2035900,
+      "difficulty": "hard"
+    },
+    {
+      "task": "BinFill",
+      "episode": 360,
+      "seed": 2036000,
+      "difficulty": "easy"
+    },
+    {
+      "task": "BinFill",
+      "episode": 361,
+      "seed": 2036100,
+      "difficulty": "medium"
+    },
+    {
+      "task": "BinFill",
+      "episode": 362,
+      "seed": 2036200,
+      "difficulty": "hard"
+    },
+    {
+      "task": "BinFill",
+      "episode": 363,
+      "seed": 2036300,
+      "difficulty": "easy"
+    },
+    {
+      "task": "BinFill",
+      "episode": 364,
+      "seed": 2036400,
+      "difficulty": "medium"
+    },
+    {
+      "task": "BinFill",
+      "episode": 365,
+      "seed": 2036500,
+      "difficulty": "hard"
+    },
+    {
+      "task": "BinFill",
+      "episode": 366,
+      "seed": 2036600,
+      "difficulty": "easy"
+    },
+    {
+      "task": "BinFill",
+      "episode": 367,
+      "seed": 2036700,
+      "difficulty": "medium"
+    },
+    {
+      "task": "BinFill",
+      "episode": 368,
+      "seed": 2036800,
+      "difficulty": "hard"
+    },
+    {
+      "task": "BinFill",
+      "episode": 369,
+      "seed": 2036900,
+      "difficulty": "easy"
+    },
+    {
+      "task": "BinFill",
+      "episode": 370,
+      "seed": 2037000,
+      "difficulty": "medium"
+    },
+    {
+      "task": "BinFill",
+      "episode": 371,
+      "seed": 2037100,
+      "difficulty": "hard"
+    },
+    {
+      "task": "BinFill",
+      "episode": 372,
+      "seed": 2037200,
+      "difficulty": "easy"
+    },
+    {
+      "task": "BinFill",
+      "episode": 373,
+      "seed": 2037300,
+      "difficulty": "medium"
+    },
+    {
+      "task": "BinFill",
+      "episode": 374,
+      "seed": 2037400,
+      "difficulty": "hard"
+    },
+    {
+      "task": "BinFill",
+      "episode": 375,
+      "seed": 2037500,
+      "difficulty": "easy"
+    },
+    {
+      "task": "BinFill",
+      "episode": 376,
+      "seed": 2037600,
+      "difficulty": "medium"
+    },
+    {
+      "task": "BinFill",
+      "episode": 377,
+      "seed": 2037700,
+      "difficulty": "hard"
+    },
+    {
+      "task": "BinFill",
+      "episode": 378,
+      "seed": 2037800,
+      "difficulty": "easy"
+    },
+    {
+      "task": "BinFill",
+      "episode": 379,
+      "seed": 2037900,
+      "difficulty": "medium"
+    },
+    {
+      "task": "BinFill",
+      "episode": 380,
+      "seed": 2038000,
+      "difficulty": "hard"
+    },
+    {
+      "task": "BinFill",
+      "episode": 381,
+      "seed": 2038100,
+      "difficulty": "easy"
+    },
+    {
+      "task": "BinFill",
+      "episode": 382,
+      "seed": 2038200,
+      "difficulty": "medium"
+    },
+    {
+      "task": "BinFill",
+      "episode": 383,
+      "seed": 2038300,
+      "difficulty": "hard"
+    },
+    {
+      "task": "BinFill",
+      "episode": 384,
+      "seed": 2038400,
+      "difficulty": "easy"
+    },
+    {
+      "task": "BinFill",
+      "episode": 385,
+      "seed": 2038500,
+      "difficulty": "medium"
+    },
+    {
+      "task": "BinFill",
+      "episode": 386,
+      "seed": 2038600,
+      "difficulty": "hard"
+    },
+    {
+      "task": "BinFill",
+      "episode": 387,
+      "seed": 2038700,
+      "difficulty": "easy"
+    },
+    {
+      "task": "BinFill",
+      "episode": 388,
+      "seed": 2038800,
+      "difficulty": "medium"
+    },
+    {
+      "task": "BinFill",
+      "episode": 389,
+      "seed": 2038900,
+      "difficulty": "hard"
+    },
+    {
+      "task": "BinFill",
+      "episode": 390,
+      "seed": 2039000,
+      "difficulty": "easy"
+    },
+    {
+      "task": "BinFill",
+      "episode": 391,
+      "seed": 2039100,
+      "difficulty": "medium"
+    },
+    {
+      "task": "BinFill",
+      "episode": 392,
+      "seed": 2039200,
+      "difficulty": "hard"
+    },
+    {
+      "task": "BinFill",
+      "episode": 393,
+      "seed": 2039300,
+      "difficulty": "easy"
+    },
+    {
+      "task": "BinFill",
+      "episode": 394,
+      "seed": 2039400,
+      "difficulty": "medium"
+    },
+    {
+      "task": "BinFill",
+      "episode": 395,
+      "seed": 2039500,
+      "difficulty": "hard"
+    },
+    {
+      "task": "BinFill",
+      "episode": 396,
+      "seed": 2039600,
+      "difficulty": "easy"
+    },
+    {
+      "task": "BinFill",
+      "episode": 397,
+      "seed": 2039700,
+      "difficulty": "medium"
+    },
+    {
+      "task": "BinFill",
+      "episode": 398,
+      "seed": 2039800,
+      "difficulty": "hard"
+    },
+    {
+      "task": "BinFill",
+      "episode": 399,
+      "seed": 2039900,
+      "difficulty": "easy"
+    }
+  ]
+}

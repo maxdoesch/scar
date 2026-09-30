@@ -1,0 +1,36 @@
+{
+  "env_id": "PickHighlight",
+  "record_count": 5,
+  "records": [
+    {
+      "task": "PickHighlight",
+      "episode": 0,
+      "seed": 1120000,
+      "difficulty": "easy"
+    },
+    {
+      "task": "PickHighlight",
+      "episode": 1,
+      "seed": 1120100,
+      "difficulty": "easy"
+    },
+    {
+      "task": "PickHighlight",
+      "episode": 2,
+      "seed": 1120200,
+      "difficulty": "medium"
+    },
+    {
+      "task": "PickHighlight",
+      "episode": 3,
+      "seed": 1120300,
+      "difficulty": "hard"
+    },
+    {
+      "task": "PickHighlight",
+      "episode": 4,
+      "seed": 1120400,
+      "difficulty": "easy"
+    }
+  ]
+}

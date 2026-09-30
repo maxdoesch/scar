@@ -1,0 +1,36 @@
+{
+  "env_id": "PickXtimes",
+  "record_count": 5,
+  "records": [
+    {
+      "task": "PickXtimes",
+      "episode": 0,
+      "seed": 1010000,
+      "difficulty": "easy"
+    },
+    {
+      "task": "PickXtimes",
+      "episode": 1,
+      "seed": 1010100,
+      "difficulty": "easy"
+    },
+    {
+      "task": "PickXtimes",
+      "episode": 2,
+      "seed": 1010200,
+      "difficulty": "medium"
+    },
+    {
+      "task": "PickXtimes",
+      "episode": 3,
+      "seed": 1010300,
+      "difficulty": "hard"
+    },
+    {
+      "task": "PickXtimes",
+      "episode": 4,
+      "seed": 1010400,
+      "difficulty": "easy"
+    }
+  ]
+}

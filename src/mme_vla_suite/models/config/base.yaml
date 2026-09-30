@@ -1,0 +1,41 @@
+budget: 512         # total tokens for the memory representation
+dataset_token_budget: 512 # number of tokens supplied to the memory encoder
+model_token_budget: 512   # number of tokens emitted by the memory encoder
+num_views: 1        # number of camera views, only use fixed views
+token_per_image: 64  # defaultnum of tokens per image, only the frame sampling method use 16 tokens.
+streaming_obs_horizon: 16  # input horizon for memory encoder
+frame_sampling_step_size: 10 # timestep interval for frame_sampling_every_n
+
+pool_type: mean
+
+use_pos_emb: true   # If true, will concatenate position embedding to the image embedding
+use_state_emb: false # If true, will concatenate state embedding to the image embedding
+
+memory_feature:
+  img:
+    net: identity
+    input_dim: 2048 # Image embedding size (extract from siglip encoder in pi05)
+  pos:
+    input_dim: 768  # Position embedding size
+    hidden_dim: 768
+  state:
+    input_dim: 8  # Robot State embedding size for Panda
+    hidden_dim: 512
+
+
+integration_type: input # [input, modulation, expert]
+memory_token_dim: 2048 # context: 2048; modulation: 1024; expert: 1024
+causal_memory_attention: false # block-causal memory attention
+aux_lang_task: null # [subtask, summary, subtask_summary]; null disables the auxiliary task
+aux_lang_task_sample_ratio: 0.0
+aux_lang_task_loss_weight: 0.05
+use_memory_gate: false # expert only: per-token sigmoid gate on memory expert residuals
+memory_gate_bias: 5.0 # expert only: initial bias for the memory gate logits (sigmoid ~= 1 when open)
+memory_gate_type: scalar # expert only: [scalar, pointwise] scalar gate per token or per-feature gate
+
+
+# memory representation
+representation_type: perceptual # [perceptual, selective]
+perceptual_memory:
+  type: frame_sampling # [frame_sampling, frame_sampling_every_n, token_dropping]
+  encoder_type: null # optional: [gated_perceptual_memory, spatial_conv, temporal_conv, temporal_conv_identity]

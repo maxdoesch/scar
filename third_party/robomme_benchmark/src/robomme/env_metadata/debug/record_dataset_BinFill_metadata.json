@@ -1,0 +1,36 @@
+{
+  "env_id": "BinFill",
+  "record_count": 5,
+  "records": [
+    {
+      "task": "BinFill",
+      "episode": 0,
+      "seed": 1040000,
+      "difficulty": "easy"
+    },
+    {
+      "task": "BinFill",
+      "episode": 1,
+      "seed": 1040100,
+      "difficulty": "easy"
+    },
+    {
+      "task": "BinFill",
+      "episode": 2,
+      "seed": 1040200,
+      "difficulty": "medium"
+    },
+    {
+      "task": "BinFill",
+      "episode": 3,
+      "seed": 1040300,
+      "difficulty": "hard"
+    },
+    {
+      "task": "BinFill",
+      "episode": 4,
+      "seed": 1040400,
+      "difficulty": "easy"
+    }
+  ]
+}

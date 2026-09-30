@@ -1,0 +1,2406 @@
+{
+  "env_id": "InsertPeg",
+  "record_count": 400,
+  "records": [
+    {
+      "task": "InsertPeg",
+      "episode": 0,
+      "seed": 7000000,
+      "difficulty": "easy"
+    },
+    {
+      "task": "InsertPeg",
+      "episode": 1,
+      "seed": 7000100,
+      "difficulty": "medium"
+    },
+    {
+      "task": "InsertPeg",
+      "episode": 2,
+      "seed": 7000200,
+      "difficulty": "hard"
+    },
+    {
+      "task": "InsertPeg",
+      "episode": 3,
+      "seed": 7000300,
+      "difficulty": "easy"
+    },
+    {
+      "task": "InsertPeg",
+      "episode": 4,
+      "seed": 7000400,
+      "difficulty": "medium"
+    },
+    {
+      "task": "InsertPeg",
+      "episode": 5,
+      "seed": 7000500,
+      "difficulty": "hard"
+    },
+    {
+      "task": "InsertPeg",
+      "episode": 6,
+      "seed": 7000600,
+      "difficulty": "easy"
+    },
+    {
+      "task": "InsertPeg",
+      "episode": 7,
+      "seed": 7000700,
+      "difficulty": "medium"
+    },
+    {
+      "task": "InsertPeg",
+      "episode": 8,
+      "seed": 7000800,
+      "difficulty": "hard"
+    },
+    {
+      "task": "InsertPeg",
+      "episode": 9,
+      "seed": 7000900,
+      "difficulty": "easy"
+    },
+    {
+      "task": "InsertPeg",
+      "episode": 10,
+      "seed": 7001000,
+      "difficulty": "medium"
+    },
+    {
+      "task": "InsertPeg",
+      "episode": 11,
+      "seed": 7001100,
+      "difficulty": "hard"
+    },
+    {
+      "task": "InsertPeg",
+      "episode": 12,
+      "seed": 7001200,
+      "difficulty": "easy"
+    },
+    {
+      "task": "InsertPeg",
+      "episode": 13,
+      "seed": 7001300,
+      "difficulty": "medium"
+    },
+    {
+      "task": "InsertPeg",
+      "episode": 14,
+      "seed": 7001400,
+      "difficulty": "hard"
+    },
+    {
+      "task": "InsertPeg",
+      "episode": 15,
+      "seed": 7001500,
+      "difficulty": "easy"
+    },
+    {
+      "task": "InsertPeg",
+      "episode": 16,
+      "seed": 7001600,
+      "difficulty": "medium"
+    },
+    {
+      "task": "InsertPeg",
+      "episode": 17,
+      "seed": 7001700,
+      "difficulty": "hard"
+    },
+    {
+      "task": "InsertPeg",
+      "episode": 18,
+      "seed": 7001800,
+      "difficulty": "easy"
+    },
+    {
+      "task": "InsertPeg",
+      "episode": 19,
+      "seed": 7001900,
+      "difficulty": "medium"
+    },
+    {
+      "task": "InsertPeg",
+      "episode": 20,
+      "seed": 7002000,
+      "difficulty": "hard"
+    },
+    {
+      "task": "InsertPeg",
+      "episode": 21,
+      "seed": 7002100,
+      "difficulty": "easy"
+    },
+    {
+      "task": "InsertPeg",
+      "episode": 22,
+      "seed": 7002200,
+      "difficulty": "medium"
+    },
+    {
+      "task": "InsertPeg",
+      "episode": 23,
+      "seed": 7002300,
+      "difficulty": "hard"
+    },
+    {
+      "task": "InsertPeg",
+      "episode": 24,
+      "seed": 7002400,
+      "difficulty": "easy"
+    },
+    {
+      "task": "InsertPeg",
+      "episode": 25,
+      "seed": 7002500,
+      "difficulty": "medium"
+    },
+    {
+      "task": "InsertPeg",
+      "episode": 26,
+      "seed": 7002600,
+      "difficulty": "hard"
+    },
+    {
+      "task": "InsertPeg",
+      "episode": 27,
+      "seed": 7002700,
+      "difficulty": "easy"
+    },
+    {
+      "task": "InsertPeg",
+      "episode": 28,
+      "seed": 7002800,
+      "difficulty": "medium"
+    },
+    {
+      "task": "InsertPeg",
+      "episode": 29,
+      "seed": 7002900,
+      "difficulty": "hard"
+    },
+    {
+      "task": "InsertPeg",
+      "episode": 30,
+      "seed": 7003000,
+      "difficulty": "easy"
+    },
+    {
+      "task": "InsertPeg",
+      "episode": 31,
+      "seed": 7003100,
+      "difficulty": "medium"
+    },
+    {
+      "task": "InsertPeg",
+      "episode": 32,
+      "seed": 7003200,
+      "difficulty": "hard"
+    },
+    {
+      "task": "InsertPeg",
+      "episode": 33,
+      "seed": 7003300,
+      "difficulty": "easy"
+    },
+    {
+      "task": "InsertPeg",
+      "episode": 34,
+      "seed": 7003400,
+      "difficulty": "medium"
+    },
+    {
+      "task": "InsertPeg",
+      "episode": 35,
+      "seed": 7003500,
+      "difficulty": "hard"
+    },
+    {
+      "task": "InsertPeg",
+      "episode": 36,
+      "seed": 7003600,
+      "difficulty": "easy"
+    },
+    {
+      "task": "InsertPeg",
+      "episode": 37,
+      "seed": 7003700,
+      "difficulty": "medium"
+    },
+    {
+      "task": "InsertPeg",
+      "episode": 38,
+      "seed": 7003800,
+      "difficulty": "hard"
+    },
+    {
+      "task": "InsertPeg",
+      "episode": 39,
+      "seed": 7003900,
+      "difficulty": "easy"
+    },
+    {
+      "task": "InsertPeg",
+      "episode": 40,
+      "seed": 7004000,
+      "difficulty": "medium"
+    },
+    {
+      "task": "InsertPeg",
+      "episode": 41,
+      "seed": 7004100,
+      "difficulty": "hard"
+    },
+    {
+      "task": "InsertPeg",
+      "episode": 42,
+      "seed": 7004200,
+      "difficulty": "easy"
+    },
+    {
+      "task": "InsertPeg",
+      "episode": 43,
+      "seed": 7004300,
+      "difficulty": "medium"
+    },
+    {
+      "task": "InsertPeg",
+      "episode": 44,
+      "seed": 7004400,
+      "difficulty": "hard"
+    },
+    {
+      "task": "InsertPeg",
+      "episode": 45,
+      "seed": 7004500,
+      "difficulty": "easy"
+    },
+    {
+      "task": "InsertPeg",
+      "episode": 46,
+      "seed": 7004600,
+      "difficulty": "medium"
+    },
+    {
+      "task": "InsertPeg",
+      "episode": 47,
+      "seed": 7004700,
+      "difficulty": "hard"
+    },
+    {
+      "task": "InsertPeg",
+      "episode": 48,
+      "seed": 7004800,
+      "difficulty": "easy"
+    },
+    {
+      "task": "InsertPeg",
+      "episode": 49,
+      "seed": 7004900,
+      "difficulty": "medium"
+    },
+    {
+      "task": "InsertPeg",
+      "episode": 50,
+      "seed": 7005000,
+      "difficulty": "hard"
+    },
+    {
+      "task": "InsertPeg",
+      "episode": 51,
+      "seed": 7005100,
+      "difficulty": "easy"
+    },
+    {
+      "task": "InsertPeg",
+      "episode": 52,
+      "seed": 7005200,
+      "difficulty": "medium"
+    },
+    {
+      "task": "InsertPeg",
+      "episode": 53,
+      "seed": 7005300,
+      "difficulty": "hard"
+    },
+    {
+      "task": "InsertPeg",
+      "episode": 54,
+      "seed": 7005400,
+      "difficulty": "easy"
+    },
+    {
+      "task": "InsertPeg",
+      "episode": 55,
+      "seed": 7005500,
+      "difficulty": "medium"
+    },
+    {
+      "task": "InsertPeg",
+      "episode": 56,
+      "seed": 7005600,
+      "difficulty": "hard"
+    },
+    {
+      "task": "InsertPeg",
+      "episode": 57,
+      "seed": 7005700,
+      "difficulty": "easy"
+    },
+    {
+      "task": "InsertPeg",
+      "episode": 58,
+      "seed": 7005800,
+      "difficulty": "medium"
+    },
+    {
+      "task": "InsertPeg",
+      "episode": 59,
+      "seed": 7005900,
+      "difficulty": "hard"
+    },
+    {
+      "task": "InsertPeg",
+      "episode": 60,
+      "seed": 7006000,
+      "difficulty": "easy"
+    },
+    {
+      "task": "InsertPeg",
+      "episode": 61,
+      "seed": 7006100,
+      "difficulty": "medium"
+    },
+    {
+      "task": "InsertPeg",
+      "episode": 62,
+      "seed": 7006200,
+      "difficulty": "hard"
+    },
+    {
+      "task": "InsertPeg",
+      "episode": 63,
+      "seed": 7006300,
+      "difficulty": "easy"
+    },
+    {
+      "task": "InsertPeg",
+      "episode": 64,
+      "seed": 7006400,
+      "difficulty": "medium"
+    },
+    {
+      "task": "InsertPeg",
+      "episode": 65,
+      "seed": 7006500,
+      "difficulty": "hard"
+    },
+    {
+      "task": "InsertPeg",
+      "episode": 66,
+      "seed": 7006600,
+      "difficulty": "easy"
+    },
+    {
+      "task": "InsertPeg",
+      "episode": 67,
+      "seed": 7006700,
+      "difficulty": "medium"
+    },
+    {
+      "task": "InsertPeg",
+      "episode": 68,
+      "seed": 7006800,
+      "difficulty": "hard"
+    },
+    {
+      "task": "InsertPeg",
+      "episode": 69,
+      "seed": 7006900,
+      "difficulty": "easy"
+    },
+    {
+      "task": "InsertPeg",
+      "episode": 70,
+      "seed": 7007000,
+      "difficulty": "medium"
+    },
+    {
+      "task": "InsertPeg",
+      "episode": 71,
+      "seed": 7007100,
+      "difficulty": "hard"
+    },
+    {
+      "task": "InsertPeg",
+      "episode": 72,
+      "seed": 7007200,
+      "difficulty": "easy"
+    },
+    {
+      "task": "InsertPeg",
+      "episode": 73,
+      "seed": 7007300,
+      "difficulty": "medium"
+    },
+    {
+      "task": "InsertPeg",
+      "episode": 74,
+      "seed": 7007400,
+      "difficulty": "hard"
+    },
+    {
+      "task": "InsertPeg",
+      "episode": 75,
+      "seed": 7007500,
+      "difficulty": "easy"
+    },
+    {
+      "task": "InsertPeg",
+      "episode": 76,
+      "seed": 7007600,
+      "difficulty": "medium"
+    },
+    {
+      "task": "InsertPeg",
+      "episode": 77,
+      "seed": 7007700,
+      "difficulty": "hard"
+    },
+    {
+      "task": "InsertPeg",
+      "episode": 78,
+      "seed": 7007800,
+      "difficulty": "easy"
+    },
+    {
+      "task": "InsertPeg",
+      "episode": 79,
+      "seed": 7007900,
+      "difficulty": "medium"
+    },
+    {
+      "task": "InsertPeg",
+      "episode": 80,
+      "seed": 7008000,
+      "difficulty": "hard"
+    },
+    {
+      "task": "InsertPeg",
+      "episode": 81,
+      "seed": 7008100,
+      "difficulty": "easy"
+    },
+    {
+      "task": "InsertPeg",
+      "episode": 82,
+      "seed": 7008200,
+      "difficulty": "medium"
+    },
+    {
+      "task": "InsertPeg",
+      "episode": 83,
+      "seed": 7008300,
+      "difficulty": "hard"
+    },
+    {
+      "task": "InsertPeg",
+      "episode": 84,
+      "seed": 7008400,
+      "difficulty": "easy"
+    },
+    {
+      "task": "InsertPeg",
+      "episode": 85,
+      "seed": 7008500,
+      "difficulty": "medium"
+    },
+    {
+      "task": "InsertPeg",
+      "episode": 86,
+      "seed": 7008600,
+      "difficulty": "hard"
+    },
+    {
+      "task": "InsertPeg",
+      "episode": 87,
+      "seed": 7008700,
+      "difficulty": "easy"
+    },
+    {
+      "task": "InsertPeg",
+      "episode": 88,
+      "seed": 7008800,
+      "difficulty": "medium"
+    },
+    {
+      "task": "InsertPeg",
+      "episode": 89,
+      "seed": 7008900,
+      "difficulty": "hard"
+    },
+    {
+      "task": "InsertPeg",
+      "episode": 90,
+      "seed": 7009000,
+      "difficulty": "easy"
+    },
+    {
+      "task": "InsertPeg",
+      "episode": 91,
+      "seed": 7009100,
+      "difficulty": "medium"
+    },
+    {
+      "task": "InsertPeg",
+      "episode": 92,
+      "seed": 7009200,
+      "difficulty": "hard"
+    },
+    {
+      "task": "InsertPeg",
+      "episode": 93,
+      "seed": 7009300,
+      "difficulty": "easy"
+    },
+    {
+      "task": "InsertPeg",
+      "episode": 94,
+      "seed": 7009400,
+      "difficulty": "medium"
+    },
+    {
+      "task": "InsertPeg",
+      "episode": 95,
+      "seed": 7009500,
+      "difficulty": "hard"
+    },
+    {
+      "task": "InsertPeg",
+      "episode": 96,
+      "seed": 7009600,
+      "difficulty": "easy"
+    },
+    {
+      "task": "InsertPeg",
+      "episode": 97,
+      "seed": 7009700,
+      "difficulty": "medium"
+    },
+    {
+      "task": "InsertPeg",
+      "episode": 98,
+      "seed": 7009800,
+      "difficulty": "hard"
+    },
+    {
+      "task": "InsertPeg",
+      "episode": 99,
+      "seed": 7009900,
+      "difficulty": "easy"
+    },
+    {
+      "task": "InsertPeg",
+      "episode": 100,
+      "seed": 7010000,
+      "difficulty": "medium"
+    },
+    {
+      "task": "InsertPeg",
+      "episode": 101,
+      "seed": 7010100,
+      "difficulty": "hard"
+    },
+    {
+      "task": "InsertPeg",
+      "episode": 102,
+      "seed": 7010200,
+      "difficulty": "easy"
+    },
+    {
+      "task": "InsertPeg",
+      "episode": 103,
+      "seed": 7010300,
+      "difficulty": "medium"
+    },
+    {
+      "task": "InsertPeg",
+      "episode": 104,
+      "seed": 7010400,
+      "difficulty": "hard"
+    },
+    {
+      "task": "InsertPeg",
+      "episode": 105,
+      "seed": 7010500,
+      "difficulty": "easy"
+    },
+    {
+      "task": "InsertPeg",
+      "episode": 106,
+      "seed": 7010600,
+      "difficulty": "medium"
+    },
+    {
+      "task": "InsertPeg",
+      "episode": 107,
+      "seed": 7010700,
+      "difficulty": "hard"
+    },
+    {
+      "task": "InsertPeg",
+      "episode": 108,
+      "seed": 7010800,
+      "difficulty": "easy"
+    },
+    {
+      "task": "InsertPeg",
+      "episode": 109,
+      "seed": 7010900,
+      "difficulty": "medium"
+    },
+    {
+      "task": "InsertPeg",
+      "episode": 110,
+      "seed": 7011000,
+      "difficulty": "hard"
+    },
+    {
+      "task": "InsertPeg",
+      "episode": 111,
+      "seed": 7011100,
+      "difficulty": "easy"
+    },
+    {
+      "task": "InsertPeg",
+      "episode": 112,
+      "seed": 7011200,
+      "difficulty": "medium"
+    },
+    {
+      "task": "InsertPeg",
+      "episode": 113,
+      "seed": 7011300,
+      "difficulty": "hard"
+    },
+    {
+      "task": "InsertPeg",
+      "episode": 114,
+      "seed": 7011400,
+      "difficulty": "easy"
+    },
+    {
+      "task": "InsertPeg",
+      "episode": 115,
+      "seed": 7011500,
+      "difficulty": "medium"
+    },
+    {
+      "task": "InsertPeg",
+      "episode": 116,
+      "seed": 7011600,
+      "difficulty": "hard"
+    },
+    {
+      "task": "InsertPeg",
+      "episode": 117,
+      "seed": 7011700,
+      "difficulty": "easy"
+    },
+    {
+      "task": "InsertPeg",
+      "episode": 118,
+      "seed": 7011800,
+      "difficulty": "medium"
+    },
+    {
+      "task": "InsertPeg",
+      "episode": 119,
+      "seed": 7011900,
+      "difficulty": "hard"
+    },
+    {
+      "task": "InsertPeg",
+      "episode": 120,
+      "seed": 7012000,
+      "difficulty": "easy"
+    },
+    {
+      "task": "InsertPeg",
+      "episode": 121,
+      "seed": 7012100,
+      "difficulty": "medium"
+    },
+    {
+      "task": "InsertPeg",
+      "episode": 122,
+      "seed": 7012200,
+      "difficulty": "hard"
+    },
+    {
+      "task": "InsertPeg",
+      "episode": 123,
+      "seed": 7012300,
+      "difficulty": "easy"
+    },
+    {
+      "task": "InsertPeg",
+      "episode": 124,
+      "seed": 7012400,
+      "difficulty": "medium"
+    },
+    {
+      "task": "InsertPeg",
+      "episode": 125,
+      "seed": 7012500,
+      "difficulty": "hard"
+    },
+    {
+      "task": "InsertPeg",
+      "episode": 126,
+      "seed": 7012600,
+      "difficulty": "easy"
+    },
+    {
+      "task": "InsertPeg",
+      "episode": 127,
+      "seed": 7012700,
+      "difficulty": "medium"
+    },
+    {
+      "task": "InsertPeg",
+      "episode": 128,
+      "seed": 7012800,
+      "difficulty": "hard"
+    },
+    {
+      "task": "InsertPeg",
+      "episode": 129,
+      "seed": 7012900,
+      "difficulty": "easy"
+    },
+    {
+      "task": "InsertPeg",
+      "episode": 130,
+      "seed": 7013000,
+      "difficulty": "medium"
+    },
+    {
+      "task": "InsertPeg",
+      "episode": 131,
+      "seed": 7013100,
+      "difficulty": "hard"
+    },
+    {
+      "task": "InsertPeg",
+      "episode": 132,
+      "seed": 7013200,
+      "difficulty": "easy"
+    },
+    {
+      "task": "InsertPeg",
+      "episode": 133,
+      "seed": 7013300,
+      "difficulty": "medium"
+    },
+    {
+      "task": "InsertPeg",
+      "episode": 134,
+      "seed": 7013400,
+      "difficulty": "hard"
+    },
+    {
+      "task": "InsertPeg",
+      "episode": 135,
+      "seed": 7013500,
+      "difficulty": "easy"
+    },
+    {
+      "task": "InsertPeg",
+      "episode": 136,
+      "seed": 7013600,
+      "difficulty": "medium"
+    },
+    {
+      "task": "InsertPeg",
+      "episode": 137,
+      "seed": 7013700,
+      "difficulty": "hard"
+    },
+    {
+      "task": "InsertPeg",
+      "episode": 138,
+      "seed": 7013800,
+      "difficulty": "easy"
+    },
+    {
+      "task": "InsertPeg",
+      "episode": 139,
+      "seed": 7013900,
+      "difficulty": "medium"
+    },
+    {
+      "task": "InsertPeg",
+      "episode": 140,
+      "seed": 7014000,
+      "difficulty": "hard"
+    },
+    {
+      "task": "InsertPeg",
+      "episode": 141,
+      "seed": 7014100,
+      "difficulty": "easy"
+    },
+    {
+      "task": "InsertPeg",
+      "episode": 142,
+      "seed": 7014200,
+      "difficulty": "medium"
+    },
+    {
+      "task": "InsertPeg",
+      "episode": 143,
+      "seed": 7014300,
+      "difficulty": "hard"
+    },
+    {
+      "task": "InsertPeg",
+      "episode": 144,
+      "seed": 7014400,
+      "difficulty": "easy"
+    },
+    {
+      "task": "InsertPeg",
+      "episode": 145,
+      "seed": 7014500,
+      "difficulty": "medium"
+    },
+    {
+      "task": "InsertPeg",
+      "episode": 146,
+      "seed": 7014600,
+      "difficulty": "hard"
+    },
+    {
+      "task": "InsertPeg",
+      "episode": 147,
+      "seed": 7014700,
+      "difficulty": "easy"
+    },
+    {
+      "task": "InsertPeg",
+      "episode": 148,
+      "seed": 7014800,
+      "difficulty": "medium"
+    },
+    {
+      "task": "InsertPeg",
+      "episode": 149,
+      "seed": 7014900,
+      "difficulty": "hard"
+    },
+    {
+      "task": "InsertPeg",
+      "episode": 150,
+      "seed": 7015000,
+      "difficulty": "easy"
+    },
+    {
+      "task": "InsertPeg",
+      "episode": 151,
+      "seed": 7015100,
+      "difficulty": "medium"
+    },
+    {
+      "task": "InsertPeg",
+      "episode": 152,
+      "seed": 7015200,
+      "difficulty": "hard"
+    },
+    {
+      "task": "InsertPeg",
+      "episode": 153,
+      "seed": 7015300,
+      "difficulty": "easy"
+    },
+    {
+      "task": "InsertPeg",
+      "episode": 154,
+      "seed": 7015400,
+      "difficulty": "medium"
+    },
+    {
+      "task": "InsertPeg",
+      "episode": 155,
+      "seed": 7015500,
+      "difficulty": "hard"
+    },
+    {
+      "task": "InsertPeg",
+      "episode": 156,
+      "seed": 7015600,
+      "difficulty": "easy"
+    },
+    {
+      "task": "InsertPeg",
+      "episode": 157,
+      "seed": 7015700,
+      "difficulty": "medium"
+    },
+    {
+      "task": "InsertPeg",
+      "episode": 158,
+      "seed": 7015800,
+      "difficulty": "hard"
+    },
+    {
+      "task": "InsertPeg",
+      "episode": 159,
+      "seed": 7015900,
+      "difficulty": "easy"
+    },
+    {
+      "task": "InsertPeg",
+      "episode": 160,
+      "seed": 7016000,
+      "difficulty": "medium"
+    },
+    {
+      "task": "InsertPeg",
+      "episode": 161,
+      "seed": 7016100,
+      "difficulty": "hard"
+    },
+    {
+      "task": "InsertPeg",
+      "episode": 162,
+      "seed": 7016200,
+      "difficulty": "easy"
+    },
+    {
+      "task": "InsertPeg",
+      "episode": 163,
+      "seed": 7016300,
+      "difficulty": "medium"
+    },
+    {
+      "task": "InsertPeg",
+      "episode": 164,
+      "seed": 7016400,
+      "difficulty": "hard"
+    },
+    {
+      "task": "InsertPeg",
+      "episode": 165,
+      "seed": 7016500,
+      "difficulty": "easy"
+    },
+    {
+      "task": "InsertPeg",
+      "episode": 166,
+      "seed": 7016600,
+      "difficulty": "medium"
+    },
+    {
+      "task": "InsertPeg",
+      "episode": 167,
+      "seed": 7016700,
+      "difficulty": "hard"
+    },
+    {
+      "task": "InsertPeg",
+      "episode": 168,
+      "seed": 7016800,
+      "difficulty": "easy"
+    },
+    {
+      "task": "InsertPeg",
+      "episode": 169,
+      "seed": 7016900,
+      "difficulty": "medium"
+    },
+    {
+      "task": "InsertPeg",
+      "episode": 170,
+      "seed": 7017000,
+      "difficulty": "hard"
+    },
+    {
+      "task": "InsertPeg",
+      "episode": 171,
+      "seed": 7017100,
+      "difficulty": "easy"
+    },
+    {
+      "task": "InsertPeg",
+      "episode": 172,
+      "seed": 7017200,
+      "difficulty": "medium"
+    },
+    {
+      "task": "InsertPeg",
+      "episode": 173,
+      "seed": 7017300,
+      "difficulty": "hard"
+    },
+    {
+      "task": "InsertPeg",
+      "episode": 174,
+      "seed": 7017400,
+      "difficulty": "easy"
+    },
+    {
+      "task": "InsertPeg",
+      "episode": 175,
+      "seed": 7017500,
+      "difficulty": "medium"
+    },
+    {
+      "task": "InsertPeg",
+      "episode": 176,
+      "seed": 7017600,
+      "difficulty": "hard"
+    },
+    {
+      "task": "InsertPeg",
+      "episode": 177,
+      "seed": 7017700,
+      "difficulty": "easy"
+    },
+    {
+      "task": "InsertPeg",
+      "episode": 178,
+      "seed": 7017800,
+      "difficulty": "medium"
+    },
+    {
+      "task": "InsertPeg",
+      "episode": 179,
+      "seed": 7017900,
+      "difficulty": "hard"
+    },
+    {
+      "task": "InsertPeg",
+      "episode": 180,
+      "seed": 7018000,
+      "difficulty": "easy"
+    },
+    {
+      "task": "InsertPeg",
+      "episode": 181,
+      "seed": 7018100,
+      "difficulty": "medium"
+    },
+    {
+      "task": "InsertPeg",
+      "episode": 182,
+      "seed": 7018200,
+      "difficulty": "hard"
+    },
+    {
+      "task": "InsertPeg",
+      "episode": 183,
+      "seed": 7018300,
+      "difficulty": "easy"
+    },
+    {
+      "task": "InsertPeg",
+      "episode": 184,
+      "seed": 7018400,
+      "difficulty": "medium"
+    },
+    {
+      "task": "InsertPeg",
+      "episode": 185,
+      "seed": 7018500,
+      "difficulty": "hard"
+    },
+    {
+      "task": "InsertPeg",
+      "episode": 186,
+      "seed": 7018600,
+      "difficulty": "easy"
+    },
+    {
+      "task": "InsertPeg",
+      "episode": 187,
+      "seed": 7018700,
+      "difficulty": "medium"
+    },
+    {
+      "task": "InsertPeg",
+      "episode": 188,
+      "seed": 7018800,
+      "difficulty": "hard"
+    },
+    {
+      "task": "InsertPeg",
+      "episode": 189,
+      "seed": 7018900,
+      "difficulty": "easy"
+    },
+    {
+      "task": "InsertPeg",
+      "episode": 190,
+      "seed": 7019000,
+      "difficulty": "medium"
+    },
+    {
+      "task": "InsertPeg",
+      "episode": 191,
+      "seed": 7019100,
+      "difficulty": "hard"
+    },
+    {
+      "task": "InsertPeg",
+      "episode": 192,
+      "seed": 7019200,
+      "difficulty": "easy"
+    },
+    {
+      "task": "InsertPeg",
+      "episode": 193,
+      "seed": 7019300,
+      "difficulty": "medium"
+    },
+    {
+      "task": "InsertPeg",
+      "episode": 194,
+      "seed": 7019400,
+      "difficulty": "hard"
+    },
+    {
+      "task": "InsertPeg",
+      "episode": 195,
+      "seed": 7019500,
+      "difficulty": "easy"
+    },
+    {
+      "task": "InsertPeg",
+      "episode": 196,
+      "seed": 7019600,
+      "difficulty": "medium"
+    },
+    {
+      "task": "InsertPeg",
+      "episode": 197,
+      "seed": 7019700,
+      "difficulty": "hard"
+    },
+    {
+      "task": "InsertPeg",
+      "episode": 198,
+      "seed": 7019800,
+      "difficulty": "easy"
+    },
+    {
+      "task": "InsertPeg",
+      "episode": 199,
+      "seed": 7019900,
+      "difficulty": "medium"
+    },
+    {
+      "task": "InsertPeg",
+      "episode": 200,
+      "seed": 7020000,
+      "difficulty": "hard"
+    },
+    {
+      "task": "InsertPeg",
+      "episode": 201,
+      "seed": 7020100,
+      "difficulty": "easy"
+    },
+    {
+      "task": "InsertPeg",
+      "episode": 202,
+      "seed": 7020200,
+      "difficulty": "medium"
+    },
+    {
+      "task": "InsertPeg",
+      "episode": 203,
+      "seed": 7020300,
+      "difficulty": "hard"
+    },
+    {
+      "task": "InsertPeg",
+      "episode": 204,
+      "seed": 7020400,
+      "difficulty": "easy"
+    },
+    {
+      "task": "InsertPeg",
+      "episode": 205,
+      "seed": 7020500,
+      "difficulty": "medium"
+    },
+    {
+      "task": "InsertPeg",
+      "episode": 206,
+      "seed": 7020600,
+      "difficulty": "hard"
+    },
+    {
+      "task": "InsertPeg",
+      "episode": 207,
+      "seed": 7020700,
+      "difficulty": "easy"
+    },
+    {
+      "task": "InsertPeg",
+      "episode": 208,
+      "seed": 7020800,
+      "difficulty": "medium"
+    },
+    {
+      "task": "InsertPeg",
+      "episode": 209,
+      "seed": 7020900,
+      "difficulty": "hard"
+    },
+    {
+      "task": "InsertPeg",
+      "episode": 210,
+      "seed": 7021000,
+      "difficulty": "easy"
+    },
+    {
+      "task": "InsertPeg",
+      "episode": 211,
+      "seed": 7021100,
+      "difficulty": "medium"
+    },
+    {
+      "task": "InsertPeg",
+      "episode": 212,
+      "seed": 7021200,
+      "difficulty": "hard"
+    },
+    {
+      "task": "InsertPeg",
+      "episode": 213,
+      "seed": 7021300,
+      "difficulty": "easy"
+    },
+    {
+      "task": "InsertPeg",
+      "episode": 214,
+      "seed": 7021400,
+      "difficulty": "medium"
+    },
+    {
+      "task": "InsertPeg",
+      "episode": 215,
+      "seed": 7021500,
+      "difficulty": "hard"
+    },
+    {
+      "task": "InsertPeg",
+      "episode": 216,
+      "seed": 7021600,
+      "difficulty": "easy"
+    },
+    {
+      "task": "InsertPeg",
+      "episode": 217,
+      "seed": 7021700,
+      "difficulty": "medium"
+    },
+    {
+      "task": "InsertPeg",
+      "episode": 218,
+      "seed": 7021800,
+      "difficulty": "hard"
+    },
+    {
+      "task": "InsertPeg",
+      "episode": 219,
+      "seed": 7021900,
+      "difficulty": "easy"
+    },
+    {
+      "task": "InsertPeg",
+      "episode": 220,
+      "seed": 7022000,
+      "difficulty": "medium"
+    },
+    {
+      "task": "InsertPeg",
+      "episode": 221,
+      "seed": 7022100,
+      "difficulty": "hard"
+    },
+    {
+      "task": "InsertPeg",
+      "episode": 222,
+      "seed": 7022200,
+      "difficulty": "easy"
+    },
+    {
+      "task": "InsertPeg",
+      "episode": 223,
+      "seed": 7022300,
+      "difficulty": "medium"
+    },
+    {
+      "task": "InsertPeg",
+      "episode": 224,
+      "seed": 7022400,
+      "difficulty": "hard"
+    },
+    {
+      "task": "InsertPeg",
+      "episode": 225,
+      "seed": 7022500,
+      "difficulty": "easy"
+    },
+    {
+      "task": "InsertPeg",
+      "episode": 226,
+      "seed": 7022600,
+      "difficulty": "medium"
+    },
+    {
+      "task": "InsertPeg",
+      "episode": 227,
+      "seed": 7022700,
+      "difficulty": "hard"
+    },
+    {
+      "task": "InsertPeg",
+      "episode": 228,
+      "seed": 7022800,
+      "difficulty": "easy"
+    },
+    {
+      "task": "InsertPeg",
+      "episode": 229,
+      "seed": 7022900,
+      "difficulty": "medium"
+    },
+    {
+      "task": "InsertPeg",
+      "episode": 230,
+      "seed": 7023000,
+      "difficulty": "hard"
+    },
+    {
+      "task": "InsertPeg",
+      "episode": 231,
+      "seed": 7023100,
+      "difficulty": "easy"
+    },
+    {
+      "task": "InsertPeg",
+      "episode": 232,
+      "seed": 7023200,
+      "difficulty": "medium"
+    },
+    {
+      "task": "InsertPeg",
+      "episode": 233,
+      "seed": 7023300,
+      "difficulty": "hard"
+    },
+    {
+      "task": "InsertPeg",
+      "episode": 234,
+      "seed": 7023400,
+      "difficulty": "easy"
+    },
+    {
+      "task": "InsertPeg",
+      "episode": 235,
+      "seed": 7023500,
+      "difficulty": "medium"
+    },
+    {
+      "task": "InsertPeg",
+      "episode": 236,
+      "seed": 7023600,
+      "difficulty": "hard"
+    },
+    {
+      "task": "InsertPeg",
+      "episode": 237,
+      "seed": 7023700,
+      "difficulty": "easy"
+    },
+    {
+      "task": "InsertPeg",
+      "episode": 238,
+      "seed": 7023800,
+      "difficulty": "medium"
+    },
+    {
+      "task": "InsertPeg",
+      "episode": 239,
+      "seed": 7023900,
+      "difficulty": "hard"
+    },
+    {
+      "task": "InsertPeg",
+      "episode": 240,
+      "seed": 7024000,
+      "difficulty": "easy"
+    },
+    {
+      "task": "InsertPeg",
+      "episode": 241,
+      "seed": 7024100,
+      "difficulty": "medium"
+    },
+    {
+      "task": "InsertPeg",
+      "episode": 242,
+      "seed": 7024200,
+      "difficulty": "hard"
+    },
+    {
+      "task": "InsertPeg",
+      "episode": 243,
+      "seed": 7024300,
+      "difficulty": "easy"
+    },
+    {
+      "task": "InsertPeg",
+      "episode": 244,
+      "seed": 7024400,
+      "difficulty": "medium"
+    },
+    {
+      "task": "InsertPeg",
+      "episode": 245,
+      "seed": 7024500,
+      "difficulty": "hard"
+    },
+    {
+      "task": "InsertPeg",
+      "episode": 246,
+      "seed": 7024600,
+      "difficulty": "easy"
+    },
+    {
+      "task": "InsertPeg",
+      "episode": 247,
+      "seed": 7024700,
+      "difficulty": "medium"
+    },
+    {
+      "task": "InsertPeg",
+      "episode": 248,
+      "seed": 7024800,
+      "difficulty": "hard"
+    },
+    {
+      "task": "InsertPeg",
+      "episode": 249,
+      "seed": 7024900,
+      "difficulty": "easy"
+    },
+    {
+      "task": "InsertPeg",
+      "episode": 250,
+      "seed": 7025000,
+      "difficulty": "medium"
+    },
+    {
+      "task": "InsertPeg",
+      "episode": 251,
+      "seed": 7025100,
+      "difficulty": "hard"
+    },
+    {
+      "task": "InsertPeg",
+      "episode": 252,
+      "seed": 7025200,
+      "difficulty": "easy"
+    },
+    {
+      "task": "InsertPeg",
+      "episode": 253,
+      "seed": 7025300,
+      "difficulty": "medium"
+    },
+    {
+      "task": "InsertPeg",
+      "episode": 254,
+      "seed": 7025400,
+      "difficulty": "hard"
+    },
+    {
+      "task": "InsertPeg",
+      "episode": 255,
+      "seed": 7025500,
+      "difficulty": "easy"
+    },
+    {
+      "task": "InsertPeg",
+      "episode": 256,
+      "seed": 7025600,
+      "difficulty": "medium"
+    },
+    {
+      "task": "InsertPeg",
+      "episode": 257,
+      "seed": 7025700,
+      "difficulty": "hard"
+    },
+    {
+      "task": "InsertPeg",
+      "episode": 258,
+      "seed": 7025800,
+      "difficulty": "easy"
+    },
+    {
+      "task": "InsertPeg",
+      "episode": 259,
+      "seed": 7025900,
+      "difficulty": "medium"
+    },
+    {
+      "task": "InsertPeg",
+      "episode": 260,
+      "seed": 7026000,
+      "difficulty": "hard"
+    },
+    {
+      "task": "InsertPeg",
+      "episode": 261,
+      "seed": 7026100,
+      "difficulty": "easy"
+    },
+    {
+      "task": "InsertPeg",
+      "episode": 262,
+      "seed": 7026200,
+      "difficulty": "medium"
+    },
+    {
+      "task": "InsertPeg",
+      "episode": 263,
+      "seed": 7026300,
+      "difficulty": "hard"
+    },
+    {
+      "task": "InsertPeg",
+      "episode": 264,
+      "seed": 7026400,
+      "difficulty": "easy"
+    },
+    {
+      "task": "InsertPeg",
+      "episode": 265,
+      "seed": 7026500,
+      "difficulty": "medium"
+    },
+    {
+      "task": "InsertPeg",
+      "episode": 266,
+      "seed": 7026600,
+      "difficulty": "hard"
+    },
+    {
+      "task": "InsertPeg",
+      "episode": 267,
+      "seed": 7026700,
+      "difficulty": "easy"
+    },
+    {
+      "task": "InsertPeg",
+      "episode": 268,
+      "seed": 7026800,
+      "difficulty": "medium"
+    },
+    {
+      "task": "InsertPeg",
+      "episode": 269,
+      "seed": 7026900,
+      "difficulty": "hard"
+    },
+    {
+      "task": "InsertPeg",
+      "episode": 270,
+      "seed": 7027000,
+      "difficulty": "easy"
+    },
+    {
+      "task": "InsertPeg",
+      "episode": 271,
+      "seed": 7027100,
+      "difficulty": "medium"
+    },
+    {
+      "task": "InsertPeg",
+      "episode": 272,
+      "seed": 7027200,
+      "difficulty": "hard"
+    },
+    {
+      "task": "InsertPeg",
+      "episode": 273,
+      "seed": 7027300,
+      "difficulty": "easy"
+    },
+    {
+      "task": "InsertPeg",
+      "episode": 274,
+      "seed": 7027400,
+      "difficulty": "medium"
+    },
+    {
+      "task": "InsertPeg",
+      "episode": 275,
+      "seed": 7027500,
+      "difficulty": "hard"
+    },
+    {
+      "task": "InsertPeg",
+      "episode": 276,
+      "seed": 7027600,
+      "difficulty": "easy"
+    },
+    {
+      "task": "InsertPeg",
+      "episode": 277,
+      "seed": 7027700,
+      "difficulty": "medium"
+    },
+    {
+      "task": "InsertPeg",
+      "episode": 278,
+      "seed": 7027800,
+      "difficulty": "hard"
+    },
+    {
+      "task": "InsertPeg",
+      "episode": 279,
+      "seed": 7027900,
+      "difficulty": "easy"
+    },
+    {
+      "task": "InsertPeg",
+      "episode": 280,
+      "seed": 7028000,
+      "difficulty": "medium"
+    },
+    {
+      "task": "InsertPeg",
+      "episode": 281,
+      "seed": 7028100,
+      "difficulty": "hard"
+    },
+    {
+      "task": "InsertPeg",
+      "episode": 282,
+      "seed": 7028200,
+      "difficulty": "easy"
+    },
+    {
+      "task": "InsertPeg",
+      "episode": 283,
+      "seed": 7028300,
+      "difficulty": "medium"
+    },
+    {
+      "task": "InsertPeg",
+      "episode": 284,
+      "seed": 7028400,
+      "difficulty": "hard"
+    },
+    {
+      "task": "InsertPeg",
+      "episode": 285,
+      "seed": 7028500,
+      "difficulty": "easy"
+    },
+    {
+      "task": "InsertPeg",
+      "episode": 286,
+      "seed": 7028600,
+      "difficulty": "medium"
+    },
+    {
+      "task": "InsertPeg",
+      "episode": 287,
+      "seed": 7028700,
+      "difficulty": "hard"
+    },
+    {
+      "task": "InsertPeg",
+      "episode": 288,
+      "seed": 7028800,
+      "difficulty": "easy"
+    },
+    {
+      "task": "InsertPeg",
+      "episode": 289,
+      "seed": 7028900,
+      "difficulty": "medium"
+    },
+    {
+      "task": "InsertPeg",
+      "episode": 290,
+      "seed": 7029000,
+      "difficulty": "hard"
+    },
+    {
+      "task": "InsertPeg",
+      "episode": 291,
+      "seed": 7029100,
+      "difficulty": "easy"
+    },
+    {
+      "task": "InsertPeg",
+      "episode": 292,
+      "seed": 7029200,
+      "difficulty": "medium"
+    },
+    {
+      "task": "InsertPeg",
+      "episode": 293,
+      "seed": 7029300,
+      "difficulty": "hard"
+    },
+    {
+      "task": "InsertPeg",
+      "episode": 294,
+      "seed": 7029400,
+      "difficulty": "easy"
+    },
+    {
+      "task": "InsertPeg",
+      "episode": 295,
+      "seed": 7029500,
+      "difficulty": "medium"
+    },
+    {
+      "task": "InsertPeg",
+      "episode": 296,
+      "seed": 7029600,
+      "difficulty": "hard"
+    },
+    {
+      "task": "InsertPeg",
+      "episode": 297,
+      "seed": 7029700,
+      "difficulty": "easy"
+    },
+    {
+      "task": "InsertPeg",
+      "episode": 298,
+      "seed": 7029800,
+      "difficulty": "medium"
+    },
+    {
+      "task": "InsertPeg",
+      "episode": 299,
+      "seed": 7029900,
+      "difficulty": "hard"
+    },
+    {
+      "task": "InsertPeg",
+      "episode": 300,
+      "seed": 7030000,
+      "difficulty": "easy"
+    },
+    {
+      "task": "InsertPeg",
+      "episode": 301,
+      "seed": 7030100,
+      "difficulty": "medium"
+    },
+    {
+      "task": "InsertPeg",
+      "episode": 302,
+      "seed": 7030200,
+      "difficulty": "hard"
+    },
+    {
+      "task": "InsertPeg",
+      "episode": 303,
+      "seed": 7030300,
+      "difficulty": "easy"
+    },
+    {
+      "task": "InsertPeg",
+      "episode": 304,
+      "seed": 7030400,
+      "difficulty": "medium"
+    },
+    {
+      "task": "InsertPeg",
+      "episode": 305,
+      "seed": 7030500,
+      "difficulty": "hard"
+    },
+    {
+      "task": "InsertPeg",
+      "episode": 306,
+      "seed": 7030600,
+      "difficulty": "easy"
+    },
+    {
+      "task": "InsertPeg",
+      "episode": 307,
+      "seed": 7030700,
+      "difficulty": "medium"
+    },
+    {
+      "task": "InsertPeg",
+      "episode": 308,
+      "seed": 7030800,
+      "difficulty": "hard"
+    },
+    {
+      "task": "InsertPeg",
+      "episode": 309,
+      "seed": 7030900,
+      "difficulty": "easy"
+    },
+    {
+      "task": "InsertPeg",
+      "episode": 310,
+      "seed": 7031000,
+      "difficulty": "medium"
+    },
+    {
+      "task": "InsertPeg",
+      "episode": 311,
+      "seed": 7031100,
+      "difficulty": "hard"
+    },
+    {
+      "task": "InsertPeg",
+      "episode": 312,
+      "seed": 7031200,
+      "difficulty": "easy"
+    },
+    {
+      "task": "InsertPeg",
+      "episode": 313,
+      "seed": 7031300,
+      "difficulty": "medium"
+    },
+    {
+      "task": "InsertPeg",
+      "episode": 314,
+      "seed": 7031400,
+      "difficulty": "hard"
+    },
+    {
+      "task": "InsertPeg",
+      "episode": 315,
+      "seed": 7031500,
+      "difficulty": "easy"
+    },
+    {
+      "task": "InsertPeg",
+      "episode": 316,
+      "seed": 7031600,
+      "difficulty": "medium"
+    },
+    {
+      "task": "InsertPeg",
+      "episode": 317,
+      "seed": 7031700,
+      "difficulty": "hard"
+    },
+    {
+      "task": "InsertPeg",
+      "episode": 318,
+      "seed": 7031800,
+      "difficulty": "easy"
+    },
+    {
+      "task": "InsertPeg",
+      "episode": 319,
+      "seed": 7031900,
+      "difficulty": "medium"
+    },
+    {
+      "task": "InsertPeg",
+      "episode": 320,
+      "seed": 7032000,
+      "difficulty": "hard"
+    },
+    {
+      "task": "InsertPeg",
+      "episode": 321,
+      "seed": 7032100,
+      "difficulty": "easy"
+    },
+    {
+      "task": "InsertPeg",
+      "episode": 322,
+      "seed": 7032200,
+      "difficulty": "medium"
+    },
+    {
+      "task": "InsertPeg",
+      "episode": 323,
+      "seed": 7032300,
+      "difficulty": "hard"
+    },
+    {
+      "task": "InsertPeg",
+      "episode": 324,
+      "seed": 7032400,
+      "difficulty": "easy"
+    },
+    {
+      "task": "InsertPeg",
+      "episode": 325,
+      "seed": 7032500,
+      "difficulty": "medium"
+    },
+    {
+      "task": "InsertPeg",
+      "episode": 326,
+      "seed": 7032600,
+      "difficulty": "hard"
+    },
+    {
+      "task": "InsertPeg",
+      "episode": 327,
+      "seed": 7032700,
+      "difficulty": "easy"
+    },
+    {
+      "task": "InsertPeg",
+      "episode": 328,
+      "seed": 7032800,
+      "difficulty": "medium"
+    },
+    {
+      "task": "InsertPeg",
+      "episode": 329,
+      "seed": 7032900,
+      "difficulty": "hard"
+    },
+    {
+      "task": "InsertPeg",
+      "episode": 330,
+      "seed": 7033000,
+      "difficulty": "easy"
+    },
+    {
+      "task": "InsertPeg",
+      "episode": 331,
+      "seed": 7033100,
+      "difficulty": "medium"
+    },
+    {
+      "task": "InsertPeg",
+      "episode": 332,
+      "seed": 7033200,
+      "difficulty": "hard"
+    },
+    {
+      "task": "InsertPeg",
+      "episode": 333,
+      "seed": 7033300,
+      "difficulty": "easy"
+    },
+    {
+      "task": "InsertPeg",
+      "episode": 334,
+      "seed": 7033400,
+      "difficulty": "medium"
+    },
+    {
+      "task": "InsertPeg",
+      "episode": 335,
+      "seed": 7033500,
+      "difficulty": "hard"
+    },
+    {
+      "task": "InsertPeg",
+      "episode": 336,
+      "seed": 7033600,
+      "difficulty": "easy"
+    },
+    {
+      "task": "InsertPeg",
+      "episode": 337,
+      "seed": 7033700,
+      "difficulty": "medium"
+    },
+    {
+      "task": "InsertPeg",
+      "episode": 338,
+      "seed": 7033800,
+      "difficulty": "hard"
+    },
+    {
+      "task": "InsertPeg",
+      "episode": 339,
+      "seed": 7033900,
+      "difficulty": "easy"
+    },
+    {
+      "task": "InsertPeg",
+      "episode": 340,
+      "seed": 7034000,
+      "difficulty": "medium"
+    },
+    {
+      "task": "InsertPeg",
+      "episode": 341,
+      "seed": 7034100,
+      "difficulty": "hard"
+    },
+    {
+      "task": "InsertPeg",
+      "episode": 342,
+      "seed": 7034200,
+      "difficulty": "easy"
+    },
+    {
+      "task": "InsertPeg",
+      "episode": 343,
+      "seed": 7034300,
+      "difficulty": "medium"
+    },
+    {
+      "task": "InsertPeg",
+      "episode": 344,
+      "seed": 7034400,
+      "difficulty": "hard"
+    },
+    {
+      "task": "InsertPeg",
+      "episode": 345,
+      "seed": 7034500,
+      "difficulty": "easy"
+    },
+    {
+      "task": "InsertPeg",
+      "episode": 346,
+      "seed": 7034600,
+      "difficulty": "medium"
+    },
+    {
+      "task": "InsertPeg",
+      "episode": 347,
+      "seed": 7034700,
+      "difficulty": "hard"
+    },
+    {
+      "task": "InsertPeg",
+      "episode": 348,
+      "seed": 7034800,
+      "difficulty": "easy"
+    },
+    {
+      "task": "InsertPeg",
+      "episode": 349,
+      "seed": 7034900,
+      "difficulty": "medium"
+    },
+    {
+      "task": "InsertPeg",
+      "episode": 350,
+      "seed": 7035000,
+      "difficulty": "hard"
+    },
+    {
+      "task": "InsertPeg",
+      "episode": 351,
+      "seed": 7035100,
+      "difficulty": "easy"
+    },
+    {
+      "task": "InsertPeg",
+      "episode": 352,
+      "seed": 7035200,
+      "difficulty": "medium"
+    },
+    {
+      "task": "InsertPeg",
+      "episode": 353,
+      "seed": 7035300,
+      "difficulty": "hard"
+    },
+    {
+      "task": "InsertPeg",
+      "episode": 354,
+      "seed": 7035400,
+      "difficulty": "easy"
+    },
+    {
+      "task": "InsertPeg",
+      "episode": 355,
+      "seed": 7035500,
+      "difficulty": "medium"
+    },
+    {
+      "task": "InsertPeg",
+      "episode": 356,
+      "seed": 7035600,
+      "difficulty": "hard"
+    },
+    {
+      "task": "InsertPeg",
+      "episode": 357,
+      "seed": 7035700,
+      "difficulty": "easy"
+    },
+    {
+      "task": "InsertPeg",
+      "episode": 358,
+      "seed": 7035800,
+      "difficulty": "medium"
+    },
+    {
+      "task": "InsertPeg",
+      "episode": 359,
+      "seed": 7035900,
+      "difficulty": "hard"
+    },
+    {
+      "task": "InsertPeg",
+      "episode": 360,
+      "seed": 7036000,
+      "difficulty": "easy"
+    },
+    {
+      "task": "InsertPeg",
+      "episode": 361,
+      "seed": 7036100,
+      "difficulty": "medium"
+    },
+    {
+      "task": "InsertPeg",
+      "episode": 362,
+      "seed": 7036200,
+      "difficulty": "hard"
+    },
+    {
+      "task": "InsertPeg",
+      "episode": 363,
+      "seed": 7036300,
+      "difficulty": "easy"
+    },
+    {
+      "task": "InsertPeg",
+      "episode": 364,
+      "seed": 7036400,
+      "difficulty": "medium"
+    },
+    {
+      "task": "InsertPeg",
+      "episode": 365,
+      "seed": 7036500,
+      "difficulty": "hard"
+    },
+    {
+      "task": "InsertPeg",
+      "episode": 366,
+      "seed": 7036600,
+      "difficulty": "easy"
+    },
+    {
+      "task": "InsertPeg",
+      "episode": 367,
+      "seed": 7036700,
+      "difficulty": "medium"
+    },
+    {
+      "task": "InsertPeg",
+      "episode": 368,
+      "seed": 7036800,
+      "difficulty": "hard"
+    },
+    {
+      "task": "InsertPeg",
+      "episode": 369,
+      "seed": 7036900,
+      "difficulty": "easy"
+    },
+    {
+      "task": "InsertPeg",
+      "episode": 370,
+      "seed": 7037000,
+      "difficulty": "medium"
+    },
+    {
+      "task": "InsertPeg",
+      "episode": 371,
+      "seed": 7037100,
+      "difficulty": "hard"
+    },
+    {
+      "task": "InsertPeg",
+      "episode": 372,
+      "seed": 7037200,
+      "difficulty": "easy"
+    },
+    {
+      "task": "InsertPeg",
+      "episode": 373,
+      "seed": 7037300,
+      "difficulty": "medium"
+    },
+    {
+      "task": "InsertPeg",
+      "episode": 374,
+      "seed": 7037400,
+      "difficulty": "hard"
+    },
+    {
+      "task": "InsertPeg",
+      "episode": 375,
+      "seed": 7037500,
+      "difficulty": "easy"
+    },
+    {
+      "task": "InsertPeg",
+      "episode": 376,
+      "seed": 7037600,
+      "difficulty": "medium"
+    },
+    {
+      "task": "InsertPeg",
+      "episode": 377,
+      "seed": 7037700,
+      "difficulty": "hard"
+    },
+    {
+      "task": "InsertPeg",
+      "episode": 378,
+      "seed": 7037800,
+      "difficulty": "easy"
+    },
+    {
+      "task": "InsertPeg",
+      "episode": 379,
+      "seed": 7037900,
+      "difficulty": "medium"
+    },
+    {
+      "task": "InsertPeg",
+      "episode": 380,
+      "seed": 7038000,
+      "difficulty": "hard"
+    },
+    {
+      "task": "InsertPeg",
+      "episode": 381,
+      "seed": 7038100,
+      "difficulty": "easy"
+    },
+    {
+      "task": "InsertPeg",
+      "episode": 382,
+      "seed": 7038200,
+      "difficulty": "medium"
+    },
+    {
+      "task": "InsertPeg",
+      "episode": 383,
+      "seed": 7038300,
+      "difficulty": "hard"
+    },
+    {
+      "task": "InsertPeg",
+      "episode": 384,
+      "seed": 7038400,
+      "difficulty": "easy"
+    },
+    {
+      "task": "InsertPeg",
+      "episode": 385,
+      "seed": 7038500,
+      "difficulty": "medium"
+    },
+    {
+      "task": "InsertPeg",
+      "episode": 386,
+      "seed": 7038600,
+      "difficulty": "hard"
+    },
+    {
+      "task": "InsertPeg",
+      "episode": 387,
+      "seed": 7038700,
+      "difficulty": "easy"
+    },
+    {
+      "task": "InsertPeg",
+      "episode": 388,
+      "seed": 7038800,
+      "difficulty": "medium"
+    },
+    {
+      "task": "InsertPeg",
+      "episode": 389,
+      "seed": 7038900,
+      "difficulty": "hard"
+    },
+    {
+      "task": "InsertPeg",
+      "episode": 390,
+      "seed": 7039000,
+      "difficulty": "easy"
+    },
+    {
+      "task": "InsertPeg",
+      "episode": 391,
+      "seed": 7039100,
+      "difficulty": "medium"
+    },
+    {
+      "task": "InsertPeg",
+      "episode": 392,
+      "seed": 7039200,
+      "difficulty": "hard"
+    },
+    {
+      "task": "InsertPeg",
+      "episode": 393,
+      "seed": 7039300,
+      "difficulty": "easy"
+    },
+    {
+      "task": "InsertPeg",
+      "episode": 394,
+      "seed": 7039400,
+      "difficulty": "medium"
+    },
+    {
+      "task": "InsertPeg",
+      "episode": 395,
+      "seed": 7039500,
+      "difficulty": "hard"
+    },
+    {
+      "task": "InsertPeg",
+      "episode": 396,
+      "seed": 7039600,
+      "difficulty": "easy"
+    },
+    {
+      "task": "InsertPeg",
+      "episode": 397,
+      "seed": 7039700,
+      "difficulty": "medium"
+    },
+    {
+      "task": "InsertPeg",
+      "episode": 398,
+      "seed": 7039800,
+      "difficulty": "hard"
+    },
+    {
+      "task": "InsertPeg",
+      "episode": 399,
+      "seed": 7039900,
+      "difficulty": "easy"
+    }
+  ]
+}

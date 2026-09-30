@@ -1,0 +1,36 @@
+{
+  "env_id": "VideoUnmask",
+  "record_count": 5,
+  "records": [
+    {
+      "task": "VideoUnmask",
+      "episode": 0,
+      "seed": 1060000,
+      "difficulty": "easy"
+    },
+    {
+      "task": "VideoUnmask",
+      "episode": 1,
+      "seed": 1060100,
+      "difficulty": "easy"
+    },
+    {
+      "task": "VideoUnmask",
+      "episode": 2,
+      "seed": 1060200,
+      "difficulty": "medium"
+    },
+    {
+      "task": "VideoUnmask",
+      "episode": 3,
+      "seed": 1060300,
+      "difficulty": "hard"
+    },
+    {
+      "task": "VideoUnmask",
+      "episode": 4,
+      "seed": 1060400,
+      "difficulty": "easy"
+    }
+  ]
+}

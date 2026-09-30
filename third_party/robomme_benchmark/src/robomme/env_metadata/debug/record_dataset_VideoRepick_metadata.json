@@ -1,0 +1,36 @@
+{
+  "env_id": "VideoRepick",
+  "record_count": 5,
+  "records": [
+    {
+      "task": "VideoRepick",
+      "episode": 0,
+      "seed": 1090000,
+      "difficulty": "easy"
+    },
+    {
+      "task": "VideoRepick",
+      "episode": 1,
+      "seed": 1090100,
+      "difficulty": "easy"
+    },
+    {
+      "task": "VideoRepick",
+      "episode": 2,
+      "seed": 1090200,
+      "difficulty": "medium"
+    },
+    {
+      "task": "VideoRepick",
+      "episode": 3,
+      "seed": 1090300,
+      "difficulty": "hard"
+    },
+    {
+      "task": "VideoRepick",
+      "episode": 4,
+      "seed": 1090400,
+      "difficulty": "easy"
+    }
+  ]
+}
